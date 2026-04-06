@@ -22,7 +22,12 @@ When you enter Duviri a set number of enigma puzzles will spawn. If you play sol
 
 As mentioned in the overview, each puzzle centers around a Paragrimm Hutch (as seen in the picture). At its core, you are matching the 3 sockets hidden around the puzzle with the 3 symbols on the Hutch.
 
+![Paragrimm Hutch](../images/duviri-enigmas/Enigma-puzzle.png)
+
 > **Note:** Multiplayer puzzles will have the Hutch initially closed, and will require two players to interact with the side panels of the Hutch to open it.
+
+<div class="guide-text-image">
+<div class="guide-text-image__text" markdown="1">
 
 There are many variations to these puzzles, including:
 
@@ -34,6 +39,12 @@ There are many variations to these puzzles, including:
     - If there's an energy field over the disc, it will remember the symbol. This is **very important** because you may end up with limited discs — match these symbols first
     - Free standing discs can be found in the world in multiple ways (hanging from archways, entangled in plants, hidden in fully sealed drums/sockets that need to be broken or pushed)
 - Some symbols on the Hutch may also be damaged or obscured by bars — you have to brute force those and/or recognize the symbol hidden underneath
+
+</div>
+<figure class="guide-text-image__img">
+  <img src="../images/duviri-enigmas/Enigma-sockets.png" alt="Enigma socket variations">
+</figure>
+</div>
 
 ---
 
