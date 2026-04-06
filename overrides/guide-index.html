@@ -4,13 +4,22 @@
 <style>
   .md-sidebar--primary { display: none !important; }
 
-  /* Larger, centered page title */
+  /* Shift content closer to the left edge */
+  .md-content__inner {
+    padding-left: 0.4rem !important;
+  }
+
+  /* Larger page title, centered relative to the viewport not the content column */
   .md-content h1 {
     font-size: 2rem !important;
     text-align: center;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
   }
 
   /* Hide Material footer generator line */
   .md-footer-meta { display: none !important; }
+
+
 </style>
 {% endblock %}
