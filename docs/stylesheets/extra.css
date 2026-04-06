@@ -177,7 +177,7 @@ body {
 /* ── Guide Index ──────────────────────────────────── */
 .guide-index-layout {
   display: flex;
-  gap: 3rem;
+  gap: 2rem;
   align-items: flex-start;
 }
 
@@ -275,6 +275,13 @@ body {
 
 .guide-category li .wip {
   opacity: 0.5;
+}
+
+/* ── Guide Index: narrow screen breakpoint ────────── */
+@media (max-width: 480px) {
+  .guide-index-layout {
+    min-width: 480px;
+  }
 }
 
 /* ── Home page CTA button ─────────────────────────── */
