@@ -43,3 +43,50 @@ a {
   color: #1c1c1c !important;
   border: none !important;
 }
+
+/* Force background color everywhere */
+:root,
+[data-md-color-scheme="slate"] {
+  --md-hue: 40;
+  --md-default-bg-color: #1c1c1c !important;
+  --md-code-bg-color: #1c1c1c !important;
+}
+
+/* ── Home page hero banner ───────────────────────── */
+.hero-banner {
+  background-image: url('../images/Header_BKG.png');
+  background-size: cover;
+  background-position: center top;
+  min-height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* escape the content area's side padding */
+  margin: -1.2rem -1.2rem 2.5rem;
+  padding: 2rem;
+}
+
+.hero-title {
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  color: #dbd2ad;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.9), 0 0 20px rgba(0, 0, 0, 0.6);
+  text-align: center;
+  line-height: 1.2;
+}
+
+/* Hide the duplicate H1 that MkDocs renders from the markdown */
+.hero-banner ~ article h1:first-child {
+  display: none;
+}
+
+.md-main,
+.md-main__inner,
+.md-content,
+.md-sidebar,
+.md-header,
+.md-footer,
+body {
+  background-color: #1c1c1c !important;
+}

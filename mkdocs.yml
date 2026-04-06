@@ -1,6 +1,7 @@
 site_name: Charithw's WF Guide Hub
 theme:
   name: material
+  custom_dir: overrides
   palette:
     scheme: slate
     primary: custom

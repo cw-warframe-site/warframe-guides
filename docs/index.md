@@ -1,3 +1,7 @@
+---
+template: home.html
+---
+
 # Welcome to Charithw's WF Guide Hub
 
 Hi hi, welcome to my Warframe guide hub! I'm Charithw, an LR5 that's been playing since around 2013.
