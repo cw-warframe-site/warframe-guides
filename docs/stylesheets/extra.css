@@ -64,6 +64,7 @@ a {
   align-items: center;
   justify-content: center;
   overflow: hidden;
+  border-bottom: 1.5px solid #b59d47;
 }
 
 /* cinematic dark gradient overlay */
@@ -95,9 +96,9 @@ a {
 
 /* Home page body: centered prose with a comfortable max-width */
 .home-body {
-  max-width: 860px;
-  margin: 2.5rem auto;
-  padding: 0 1.5rem 3rem;
+  max-width: 960px;
+  margin: 1.5rem auto 3rem;
+  padding: 0 1.5rem;
   text-align: left;
 }
 
@@ -169,5 +170,31 @@ body {
 /* Hide the now-redundant separate tabs bar */
 .md-tabs {
   display: none !important;
+}
+
+/* ── Home page CTA button ─────────────────────────── */
+.home-cta {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.guide-index-btn {
+  display: inline-block;
+  font-family: 'Cinzel', serif !important;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  color: #b59d47 !important;
+  background: transparent;
+  border: 1.5px solid #b59d47;
+  padding: 10px 24px;
+  text-decoration: none !important;
+  border-radius: 2px;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.guide-index-btn:hover {
+  background: #b59d47;
+  color: #1c1c1c !important;
 }
 

@@ -10,4 +10,6 @@ A big thank you to everyone who helped edit and look over my guides as I was mak
 
 I hope you enjoy my guides and if there's something specific you'd like a guide on, feel free to hit me up on Discord/WF (User/IGN: Charithw).
 
-[View Guide Index](guides/guide_index.md)
+<div class="home-cta">
+  <a href="guides/guide_index.md" class="guide-index-btn">View Guide Index</a>
+</div>
