@@ -50,7 +50,9 @@ There are many variations to these puzzles, including:
 
 ## How to Find Randomized Puzzles
 
-There are a fixed number of positions for these puzzles. There's not a guaranteed way to find them, but what I typically do is fly across Duviri and cover the high density areas for spawns (see pic). While flying I keep an eye out for the floating sockets which are typical of Enigma puzzles, or for a white circle to appear on the map.
+While Paragrimm Hutches spawn randomly, there are fixed locations that they can spawn. What I typically do is fly across Duviri and cover the high density areas for spawns. 
+
+Previously, your only way to find them was to keep an eye out for the floating sockets which are typical of Enigma puzzles, or for a white circle to appear on the map. Recently however, DE has introduced the Enigma Sense. This is a permanent upgrade you can get from Acrithis in your Dormizone, and will auto mark any Paragrimm Hutches within 150m of your character. You'll still have to fly around and search for them, but it does make it easier to find.
 
 > **Note:** Puzzle spawns can be really rough. If you're just doing this for the Nightwave mission, I recommend rushing Archarbor instead of searching for the randomized puzzles. It's quick to run and oftentimes I find a puzzle on the Archarbor island as well.
 
