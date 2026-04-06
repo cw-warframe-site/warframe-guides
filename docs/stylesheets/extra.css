@@ -55,10 +55,7 @@ a {
 /* ── Home page hero banner ───────────────────────── */
 .hero-banner {
   position: relative;
-  /* Full-width escape: breaks out of any content column constraints */
-  width: 100vw;
-  left: 50%;
-  transform: translateX(-50%);
+  width: 100%;
   background-image: url('../images/entrati.png');
   background-size: cover;
   background-position: center center;
@@ -66,7 +63,6 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 2.5rem;
   overflow: hidden;
 }
 
@@ -99,9 +95,10 @@ a {
 
 /* Home page body: centered prose with a comfortable max-width */
 .home-body {
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 0 1.5rem 2rem;
+  max-width: 680px;
+  margin: 2.5rem auto;
+  padding: 0 1.5rem 3rem;
+  text-align: center;
 }
 
 /* Hide the H1 that MkDocs injects from the markdown or page title */
@@ -119,6 +116,3 @@ body {
   background-color: #1c1c1c !important;
 }
 
-body {
-  overflow-x: hidden;
-}
