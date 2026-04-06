@@ -88,7 +88,7 @@ With each statue, you can use your interact key to 'push' the statue, rotating i
 - **Statue 4** - Hack the console by statue 1 and the floor panels will open up. Go all the way down and activate the final statue. 
 > **Note:** This statue will **not** activate until **all** 3 previous statues are facing the center of the island
 
-![Archarbor Statues](../images/duviri-enigmas/Archarbor-statues.webp){ .center width=75% }
+![Archarbor Statues](../images/duviri-enigmas/Archarbor-statues.webp){ .center width=80% }
 
 <div class="guide-text-image" markdown="1">
 <div class="guide-text-image__text" markdown="1">
@@ -98,7 +98,7 @@ Once all 4 statues are activated/aligned, the gates underneath the island will r
 > **Note:** If you rush it too fast, sometimes the puzzle won't spawn. Either reset or just go back to the mainland, earn a decree and come back to fix it
 
 </div>
-<figure class="guide-text-image__img">
+<figure class="guide-text-image__img" style="flex: 0 0 40%;">
   <img src="../../images/duviri-enigmas/Archarbor-puzzle-loc.webp" alt="Archarbor puzzle location">
 </figure>
 </div>
