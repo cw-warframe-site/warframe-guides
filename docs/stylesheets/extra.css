@@ -197,7 +197,7 @@ body {
   padding: 1rem 1.1rem;
 }
 
-.sidebar-heading {
+.guide-index-sidebar .sidebar-heading {
   font-family: 'Cinzel', serif !important;
   font-size: 0.8rem;
   letter-spacing: 0.06em;
