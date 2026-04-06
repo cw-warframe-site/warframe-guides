@@ -55,10 +55,10 @@ a {
 /* ── Home page hero banner ───────────────────────── */
 .hero-banner {
   position: relative;
-  background-image: url('../images/entrati.jpg');
+  background-image: url('../images/entrati.png');
   background-size: cover;
   background-position: center center;
-  min-height: 440px;
+  min-height: 400px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -85,16 +85,19 @@ a {
   z-index: 1;
   font-family: 'Cinzel', serif;
   font-weight: 600;
-  font-size: clamp(2.4rem, 6vw, 4.5rem);
+  font-size: clamp(1.8rem, 3.5vw, 3rem);
   color: #dbd2ad;
   text-shadow: 0 2px 12px rgba(0, 0, 0, 1), 0 0 40px rgba(0, 0, 0, 0.7);
   text-align: center;
   letter-spacing: 0.06em;
   line-height: 1.2;
+  white-space: nowrap;
 }
 
-/* Hide the duplicate H1 that MkDocs renders from the markdown */
-.hero-banner ~ article h1:first-child {
+/* Hide any H1 MkDocs/Material renders in the article on the home page.
+   Using h1 (not h1:first-child) because Material may prepend an edit-link
+   anchor before the H1, making it not the literal :first-child. */
+.hero-banner ~ article h1 {
   display: none;
 }
 
