@@ -183,7 +183,7 @@ body {
 
 .guide-index-main {
   flex: 1;
-  min-width: 0;
+  min-width: 380px;
 }
 
 .guide-index-sidebar {
@@ -279,8 +279,8 @@ body {
 
 /* ── Guide Index: narrow screen breakpoint ────────── */
 @media (max-width: 960px) {
-  .guide-index-layout {
-    min-width: 960px;
+  .md-content__inner {
+    overflow-x: auto;
   }
 }
 
