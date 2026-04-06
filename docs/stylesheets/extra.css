@@ -96,7 +96,7 @@ a {
 
 /* Home page body: centered prose with a comfortable max-width */
 .home-body {
-  max-width: 960px;
+  max-width: 1060px;
   margin: 1.5rem auto 3rem;
   padding: 0 1.5rem;
   text-align: left;
@@ -180,10 +180,7 @@ body {
 
 .guide-index-btn {
   display: inline-block;
-  font-family: 'Cinzel', serif !important;
-  font-weight: 600;
   font-size: 0.85rem;
-  letter-spacing: 0.08em;
   color: #b59d47 !important;
   background: transparent;
   border: 1.5px solid #b59d47;
