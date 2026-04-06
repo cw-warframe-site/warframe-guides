@@ -189,7 +189,7 @@ body {
 .guide-index-sidebar {
   position: sticky;
   top: 4.5rem;
-  width: 230px;
+  width: 300px;
   flex-shrink: 0;
   background-color: #26221a;
   border: 1.5px solid #b59d47;
@@ -198,7 +198,7 @@ body {
 }
 
 .sidebar-heading {
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', serif !important;
   font-size: 0.8rem;
   letter-spacing: 0.06em;
   color: #b59d47;

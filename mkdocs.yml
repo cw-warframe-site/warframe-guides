@@ -10,7 +10,6 @@ theme:
     text: Lato
     code: Roboto Mono
   features:
-    - navigation.top
     - navigation.tracking
     - navigation.tabs
 
