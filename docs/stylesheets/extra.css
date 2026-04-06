@@ -95,10 +95,10 @@ a {
 
 /* Home page body: centered prose with a comfortable max-width */
 .home-body {
-  max-width: 680px;
+  max-width: 860px;
   margin: 2.5rem auto;
   padding: 0 1.5rem 3rem;
-  text-align: center;
+  text-align: left;
 }
 
 /* Hide the H1 that MkDocs injects from the markdown or page title */
@@ -114,5 +114,50 @@ a {
 .md-footer,
 body {
   background-color: #1c1c1c !important;
+}
+
+/* ── Header layout: site name left, nav + search right ── */
+
+/* Title takes only its natural width (was flex:1, which centered everything) */
+.md-header__title {
+  flex: 0 1 auto !important;
+}
+
+/* Spacer grows to create the large gap, pushing nav+search to the right */
+.md-header__spacer {
+  flex: 1;
+}
+
+/* Inline nav links in header */
+.md-header-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+.md-header-nav__link {
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  color: #dbd2ad !important;
+  text-decoration: none !important;
+  padding: 0.3rem 0.9rem;
+  border-radius: 2px;
+  opacity: 0.75;
+  transition: opacity 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+.md-header-nav__link:hover,
+.md-header-nav__link--active {
+  opacity: 1;
+  color: #b59d47 !important;
+}
+
+/* Hide the now-redundant separate tabs bar */
+.md-tabs {
+  display: none !important;
 }
 
