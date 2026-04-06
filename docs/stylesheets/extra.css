@@ -307,3 +307,9 @@ body {
   color: #1c1c1c !important;
 }
 
+/* Centered standalone images */
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+

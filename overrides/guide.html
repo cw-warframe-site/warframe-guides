@@ -37,11 +37,12 @@
   }
 
   .guide-text-image__text {
-    flex: 0 0 40%; /* ← adjust this % to control text width; image fills the rest */
+    flex: 1 1 0;
+    min-width: 0;
   }
 
   .guide-text-image__img {
-    flex: 1 1 0;
+    flex: 0 0 50%; /* ← default image column width; override per-instance via inline style on <figure> */
     min-width: 0;
     margin: 0;
   }

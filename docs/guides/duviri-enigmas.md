@@ -44,7 +44,7 @@ There are many variations to these puzzles, including:
 - Free standing discs can be found in the world in multiple ways (hanging from archways, entangled in plants, hidden in fully sealed drums/sockets that need to be broken or pushed)
 - Some symbols on the Hutch may also be damaged or obscured by bars. You have to brute force those and/or recognize the symbol hidden underneath
 
-![Enigma Sockets](../images/duviri-enigmas/Enigma-sockets.webp)
+![Enigma Sockets](../images/duviri-enigmas/Enigma-sockets.webp){ .center }
 
 ---
 
@@ -52,7 +52,7 @@ There are many variations to these puzzles, including:
 
 While Paragrimm Hutches spawn randomly, there are fixed locations that they can spawn. What I typically do is fly across Duviri and cover the high density areas for spawns. 
 
-![Enigma Path](../images/duviri-enigmas/Enigma-path.webp)
+![Enigma Path](../images/duviri-enigmas/Enigma-path.webp){ .center width=60% }
 
 Previously, your only way to find them was to keep an eye out for the floating sockets which are typical of Enigma puzzles, or for a white circle to appear on the map. Recently however, DE has introduced the Enigma Sense. This is a permanent upgrade you can get from Acrithis in your Dormizone, and will mark any Paragrimm Hutches within 150m of your Drifter with an enigma gyrum emblem. You'll still have to fly around and search for them, but it does make it easier to find.
 
@@ -61,7 +61,7 @@ Previously, your only way to find them was to keep an eye out for the floating s
 
 Additionally, the white circle also indicates the area where all the discs & sockets can be found. This is useful since it limits the area you have to search.
 
-![Enigma Circle](../images/duviri-enigmas/Enigma-circle.webp)
+![Enigma Circle](../images/duviri-enigmas/Enigma-circle.webp){ .center }
 
 ---
 
@@ -75,7 +75,7 @@ The other main type of Enigma puzzle you'll find is the Archarbor, which spawns 
 The puzzle sits at the bottom of the Archarbor island and requires you to align 4 statues around the island to unlock the gates protecting it (see map and statue pictures below).
 
 </div>
-<figure class="guide-text-image__img">
+<figure class="guide-text-image__img" style="flex: 0 0 30%;">
   <img src="../../images/duviri-enigmas/Archarbor-map.webp" alt="Archarbor statue map">
 </figure>
 </div>
@@ -88,7 +88,7 @@ With each statue, you can use your interact key to 'push' the statue, rotating i
 - **Statue 4** - Hack the console by statue 1 and the floor panels will open up. Go all the way down and activate the final statue. 
 > **Note:** This statue will **not** activate until **all** 3 previous statues are facing the center of the island
 
-![Archarbor Statues](../images/duviri-enigmas/Archarbor-statues.webp)
+![Archarbor Statues](../images/duviri-enigmas/Archarbor-statues.webp){ .center width=75% }
 
 <div class="guide-text-image" markdown="1">
 <div class="guide-text-image__text" markdown="1">
@@ -107,7 +107,7 @@ Once at the bottom, you'll see 8 sockets and 8 symbols (4 obscured) to match. Th
 
 4 discs are on the opposite side of the room from the 8 symbols. I recommend working on the standard sockets and sockets with energy plates first. Once you're done, then popping the discs off the energy sockets to work on the remaining sockets.
 
-![Archarbor Puzzle](../images/duviri-enigmas/Archarbor-puzzle.webp)
+![Archarbor Puzzle](../images/duviri-enigmas/Archarbor-puzzle.webp){ .center width=60% }
 
 ---
 
