@@ -278,9 +278,9 @@ body {
 }
 
 /* ── Guide Index: narrow screen breakpoint ────────── */
-@media (max-width: 480px) {
+@media (max-width: 960px) {
   .guide-index-layout {
-    min-width: 480px;
+    min-width: 960px;
   }
 }
 
