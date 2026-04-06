@@ -1,0 +1,45 @@
+/* Import Cinzel */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+
+/* Core colors */
+:root {
+  --md-primary-fg-color: #1c1c1c;
+  --md-primary-bg-color: #dbd2ad;
+  --md-accent-fg-color: #b59d47;
+  --md-default-bg-color: #1c1c1c;
+  --md-default-fg-color: #dbd2ad;
+  --md-default-fg-color--light: #dbd2ad;
+}
+
+/* Headings use Cinzel */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', serif !important;
+  color: #b59d47 !important;
+}
+
+/* Body text color */
+.md-content {
+  color: #dbd2ad;
+}
+
+/* Navigation header */
+.md-header {
+  background-color: #1c1c1c;
+}
+
+/* Sidebar */
+.md-sidebar {
+  background-color: #1c1c1c;
+}
+
+/* Links */
+a {
+  color: #b59d47 !important;
+}
+
+/* Button styling */
+.md-button {
+  background-color: #b59d47 !important;
+  color: #1c1c1c !important;
+  border: none !important;
+}
