@@ -313,3 +313,9 @@ img.center {
   margin: 0 auto;
 }
 
+/* Gold border for standalone images */
+img.bordered {
+  border-radius: 3px;
+  border: 2.5px solid #b59d47;
+}
+

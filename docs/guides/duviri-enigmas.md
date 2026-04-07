@@ -52,7 +52,7 @@ There are many variations to these puzzles, including:
 
 While Paragrimm Hutches spawn randomly, there are fixed locations that they can spawn. What I typically do is fly across Duviri and cover the high density areas for spawns. 
 
-![Enigma Path](../images/duviri-enigmas/Enigma-path.webp){ .center width=60% }
+![Enigma Path](../images/duviri-enigmas/Enigma-path.webp){ .center .bordered width=60% }
 
 Previously, your only way to find them was to keep an eye out for the floating sockets which are typical of Enigma puzzles, or for a white circle to appear on the map. Recently however, DE has introduced the Enigma Sense. This is a permanent upgrade you can get from Acrithis in your Dormizone, and will mark any Paragrimm Hutches within 150m of your Drifter with an enigma gyrum emblem. You'll still have to fly around and search for them, but it does make it easier to find.
 
@@ -61,7 +61,7 @@ Previously, your only way to find them was to keep an eye out for the floating s
 
 Additionally, the white circle also indicates the area where all the discs & sockets can be found. This is useful since it limits the area you have to search.
 
-![Enigma Circle](../images/duviri-enigmas/Enigma-circle.webp){ .center }
+![Enigma Circle](../images/duviri-enigmas/Enigma-circle.webp){ .center .bordered }
 
 ---
 
@@ -88,7 +88,7 @@ With each statue, you can use your interact key to 'push' the statue, rotating i
 - **Statue 4** - Hack the console by statue 1 and the floor panels will open up. Go all the way down and activate the final statue. 
 > **Note:** This statue will **not** activate until **all** 3 previous statues are facing the center of the island
 
-![Archarbor Statues](../images/duviri-enigmas/Archarbor-statues.webp){ .center width=80% }
+![Archarbor Statues](../images/duviri-enigmas/Archarbor-statues.webp){ .center .bordered width=80% }
 
 <div class="guide-text-image" markdown="1">
 <div class="guide-text-image__text" markdown="1">
