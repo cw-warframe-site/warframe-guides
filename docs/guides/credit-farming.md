@@ -44,8 +44,6 @@ On clearing the mission you'll get an extra 12-20k credits depending on the miss
 
 The Index is a special Corpus node on Neptune where you wager credits and fight in a Corpus arena for large sums of credits. 
 
-![Index Location](../images/credit-farming/index.webp){ .center .bordered width=50%}
-
 ### Credit Rewards
 
 Before entering the Index, you must select a wager amount which affects the return and number of points:
@@ -114,15 +112,15 @@ To run this simply hop into a Höllvania mission
 4. Open safe
 5. Profit! 
 
-</div>
-<figure class="guide-text-image__img" style="flex: 0 0 30%;">
-  <img src="../../images/credit-farming/techrot-safe.webp" alt="Techrot-Safe">
-</figure>
-</div>
-
 > **Note:** If the Effigy is right in front of the safe, it will block you from opening the safe. Instead place it to the side or a little further away (but still within 10 meters)
 
 After that, run the rest of the mission to completion and extract. I've also linked a youtube short guide below for visual learners!
+
+</div>
+<figure class="guide-text-image__img" style="flex: 0 0 25%;">
+  <img src="../../images/credit-farming/techrot-safe.webp" alt="Techrot-Safe">
+</figure>
+</div>
 
 [Techrot Safes Explained!](https://www.youtube.com/shorts/LfDR9tTdWQM)
 

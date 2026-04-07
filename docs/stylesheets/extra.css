@@ -415,6 +415,14 @@ body {
   color: #b59d47 !important;
 }
 
+.md-typeset .inline-toc li li a {
+  color: #c8b87a !important;
+}
+
+.md-typeset .inline-toc li li a:hover {
+  color: #b59d47 !important;
+}
+
 @media (max-width: 1200px) {
   .inline-toc {
     display: block;

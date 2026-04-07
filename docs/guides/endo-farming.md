@@ -10,7 +10,7 @@ template: guide.html
 - [Overview](#overview)
 - [Beginner Friendly Farms](#beginner-friendly-farms)
 - [Mid Game Farms](#mid-game-farms)
-- [Late Game / Heavy Investment Farms](#late-game--heavy-investment-farms)
+- [Late Game / Heavy Investment Farms](#late-game-heavy-investment-farms)
 
 </div>
 
