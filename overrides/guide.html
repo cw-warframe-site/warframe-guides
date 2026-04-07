@@ -60,8 +60,13 @@
     border: 2.5px solid #b59d47;
   }
 
+  /* Hide TOC sidebar earlier than Material's default ~960px breakpoint */
+  @media (max-width: 1200px) {
+    .md-sidebar--secondary { display: none !important; }
+  }
+
   /* Stack text above image at narrow widths */
-  @media (max-width: 820px) {
+  @media (max-width: 1000px) {
     .guide-text-image {
       flex-direction: column;
       align-items: center;
@@ -92,5 +97,46 @@
     color: #b59d47 !important;
     letter-spacing: 0.05em;
   }
+
+  /* Back to top button: hidden on wide screens */
+  .back-to-top-btn { display: none; }
+
+  @media (max-width: 1200px) {
+    .back-to-top-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      position: fixed;
+      bottom: 2rem;
+      right: 1.5rem;
+      z-index: 201;
+      background: #26221a;
+      border: 1.5px solid #b59d47;
+      border-radius: 3px;
+      color: #b59d47;
+      font-family: 'Cinzel', serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.05em;
+      padding: 0.5rem 0.9rem;
+      cursor: pointer;
+      transition: background 0.15s ease, color 0.15s ease;
+      text-decoration: none !important;
+    }
+
+    .back-to-top-btn:hover {
+      background: #b59d47;
+      color: #1c1c1c !important;
+    }
+  }
 </style>
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+<a class="back-to-top-btn" href="#" aria-label="Back to top">
+  <svg width="11" height="11" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+    <path d="M8 2 L15 13 L1 13 Z"/>
+  </svg>
+  Top
+</a>
 {% endblock %}

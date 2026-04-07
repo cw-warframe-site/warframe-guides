@@ -4,6 +4,16 @@ template: guide.html
 
 # Duviri Enigmas
 
+<div class="inline-toc" markdown="1">
+<p class="inline-toc__title">Table of Contents</p>
+
+- [Overview](#overview)
+- [Randomized Puzzles](#randomized-puzzles)
+- [How to Find Randomized Puzzles](#how-to-find-randomized-puzzles)
+- [Archarbors](#archarbors)
+
+</div>
+
 ## Overview
 
 Duviri Enigma puzzles are random mini puzzles that populate Duviri and focus around unlocking a Paragrimm Hutch.

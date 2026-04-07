@@ -356,6 +356,50 @@ body {
   color: #1c1c1c !important;
 }
 
+/* ── Inline TOC (shown only when sidebar TOC is hidden) ──────── */
+.inline-toc {
+  display: none;
+  background-color: #26221a;
+  border: 1.5px solid #b59d47;
+  border-radius: 3px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.inline-toc__title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.9rem;
+  color: #b59d47;
+  letter-spacing: 0.05em;
+  margin: 0 0 0.6rem 0;
+}
+
+.inline-toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.inline-toc li {
+  padding: 0.2rem 0;
+}
+
+.inline-toc a {
+  font-size: 0.85rem;
+  color: #b59d47 !important;
+  text-decoration: none !important;
+}
+
+.inline-toc a:hover {
+  color: #dbd2ad !important;
+}
+
+@media (max-width: 1200px) {
+  .inline-toc {
+    display: block;
+  }
+}
+
 /* Centered standalone images */
 img.center {
   display: block;
