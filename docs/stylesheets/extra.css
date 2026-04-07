@@ -28,7 +28,7 @@ h2 {
 h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif !important;
   font-weight: 700 !important;
-  color: #dbd2ad !important;
+  color: #c8b87a !important;
 }
 
 /* Body text color */
@@ -44,6 +44,11 @@ h3, h4, h5, h6 {
 /* Sidebar */
 .md-sidebar {
   background-color: #1c1c1c;
+}
+
+/* No underlines on sidebar TOC links */
+.md-sidebar--secondary a {
+  text-decoration: none !important;
 }
 
 /* Links */
@@ -246,7 +251,6 @@ body {
   font-family: 'Lato', sans-serif;
   font-size: 0.8rem;
   color: #b59d47 !important;
-  text-decoration: none !important;
 }
 
 .guide-index-sidebar a:hover {
@@ -296,7 +300,6 @@ body {
 
 .guide-category li a {
   color: #dbd2ad !important;
-  text-decoration: none !important;
 }
 
 .guide-category li a:hover {
@@ -405,7 +408,6 @@ body {
 .md-typeset .inline-toc a {
   font-size: inherit;
   color: #dbd2ad !important;
-  text-decoration: none !important;
 }
 
 .md-typeset .inline-toc a:hover {
