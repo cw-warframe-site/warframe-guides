@@ -129,6 +129,14 @@ body {
   align-items: center;
 }
 
+/* Logo: visible between 631px–1220px — Material hides it there expecting a hamburger,
+   but we suppress the hamburger in that range so we must override */
+@media (min-width: 631px) {
+  .md-header__button.md-logo {
+    display: inline-flex !important;
+  }
+}
+
 /* Title: natural width, no shrinking, no ellipsis collapse */
 .md-header__title {
   flex: 0 0 auto !important;
