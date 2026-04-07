@@ -278,7 +278,7 @@ body {
   font-size: 1.2rem;
   flex-shrink: 0;
   position: relative;
-  top: -0.1em;
+  top: 0.1em;
 }
 
 .guide-category li a {
@@ -363,8 +363,8 @@ body {
 
 .inline-toc__title {
   font-family: 'Cinzel', serif !important;
-  font-size: 1.5625rem;
-  color: #b59d47;
+  font-size: 1.5625em;
+  color: #b59d47 !important;
   letter-spacing: 0.05em;
   margin: 0 0 0.75rem 0;
 }
@@ -372,7 +372,7 @@ body {
 .inline-toc ul {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding-left: 0 !important;
 }
 
 .inline-toc li {
@@ -387,7 +387,7 @@ body {
 }
 
 .inline-toc a {
-  font-size: 0.9rem;
+  font-size: inherit;
   color: #dbd2ad !important;
   text-decoration: none !important;
 }
