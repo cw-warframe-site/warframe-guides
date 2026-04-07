@@ -28,6 +28,8 @@ These enemies can all be scanned, and when killed can drop the aero, motus, and 
 
 None of the exclusive mods are particularly strong but if you're a collector of mods, scans, or captura scenes, these puzzles have them all!
 
+---
+
 ## The Lab Guide
 
 This guide by Darkbowser166 details all 10 puzzles, where you find them, and how to solve them! It's a great guide that I still use whenever my syndicate medallions inevitably end up behind the lab door... 😅 

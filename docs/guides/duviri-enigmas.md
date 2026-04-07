@@ -110,7 +110,3 @@ Once at the bottom, you'll see 8 sockets and 8 symbols (4 obscured) to match. Th
 > **Remember!:** Once solved, you'll need to earn one more decree before leaving to 'save' all your loot!
 
 ![Archarbor Puzzle](../images/duviri-enigmas/Archarbor-puzzle.webp){ .center width=80% }
-
----
-
-*Contributors: Charithw, K1ttycutthroat*

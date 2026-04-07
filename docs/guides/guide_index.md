@@ -27,7 +27,7 @@ template: guide-index.html
     </div>
 
     <div class="guide-category" id="modding-and-optimization">
-      <h2>Modding &amp; Optimization/h2>
+      <h2>Modding &amp; Optimization</h2>
       <ul>
         <li><span class="wip">Learning to Mod: Basics (WIP)</span></li>
         <li><span class="wip">Learning to Mod: Advanced Concepts (WIP)</span></li>
