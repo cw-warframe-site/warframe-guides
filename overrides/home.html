@@ -8,9 +8,11 @@
 
 {% block extrahead %}
 <style>
-  /* Hide both sidebars on home page only */
-  .md-sidebar--primary,
-  .md-sidebar--secondary { display: none !important; }
+  /* Hide both sidebars on home page (but not on mobile — drawer uses the primary sidebar) */
+  @media (min-width: 631px) {
+    .md-sidebar--primary,
+    .md-sidebar--secondary { display: none !important; }
+  }
 </style>
 {% endblock %}
 

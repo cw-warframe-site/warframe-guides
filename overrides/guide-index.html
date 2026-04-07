@@ -2,8 +2,10 @@
 
 {% block extrahead %}
 <style>
-  .md-sidebar--primary,
-  .md-sidebar--secondary { display: none !important; }
+  @media (min-width: 631px) {
+    .md-sidebar--primary,
+    .md-sidebar--secondary { display: none !important; }
+  }
 
   /* Equal left/right gutters */
   .md-content__inner {
