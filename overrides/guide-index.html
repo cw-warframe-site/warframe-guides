@@ -22,6 +22,135 @@
   /* Hide Material footer generator line */
   .md-footer-meta { display: none !important; }
 
+  /* ── Jump To FAB: hidden by default (desktop shows inline sidebar) ── */
+  .jump-to-fab { display: none; }
+  .jump-to-backdrop { display: none; }
 
+  /* ── Mobile: floating Jump To panel ──────────────── */
+  @media (max-width: 820px) {
+    /* Detach sidebar from flex flow; hide until opened */
+    .guide-index-sidebar {
+      position: fixed;
+      top: 3.5rem;
+      right: 1rem;
+      width: 220px;
+      max-height: calc(100vh - 5rem);
+      overflow-y: auto;
+      z-index: 200;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(-8px);
+      transition: opacity 0.18s ease, transform 0.18s ease;
+    }
+
+    .guide-index-sidebar.is-open {
+      opacity: 1;
+      pointer-events: auto;
+      transform: translateY(0);
+    }
+
+    /* Close ribbon injected by JS */
+    .jump-to-close {
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 0.5rem;
+    }
+
+    .jump-to-close-btn {
+      background: transparent;
+      border: none;
+      color: #b59d47;
+      font-size: 1rem;
+      cursor: pointer;
+      padding: 0;
+      line-height: 1;
+    }
+
+    .jump-to-close-btn:hover {
+      color: #dbd2ad;
+    }
+
+    /* Floating trigger button */
+    .jump-to-fab {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      position: fixed;
+      bottom: 2rem;
+      right: 1.5rem;
+      z-index: 201;
+      background: #26221a;
+      border: 1.5px solid #b59d47;
+      border-radius: 3px;
+      color: #b59d47;
+      font-family: 'Cinzel', serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.05em;
+      padding: 0.5rem 0.9rem;
+      cursor: pointer;
+      transition: background 0.15s ease, color 0.15s ease;
+    }
+
+    .jump-to-fab:hover {
+      background: #b59d47;
+      color: #1c1c1c;
+    }
+
+    /* Invisible backdrop catches outside clicks */
+    .jump-to-backdrop {
+      display: block;
+      position: fixed;
+      inset: 0;
+      z-index: 199;
+      pointer-events: none;
+    }
+
+    .jump-to-backdrop.is-open {
+      pointer-events: auto;
+    }
+  }
 </style>
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+<button class="jump-to-fab" id="jump-to-fab" aria-label="Jump to section">
+  <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+    <rect y="1"  width="16" height="2.5" rx="1"/>
+    <rect y="6"  width="16" height="2.5" rx="1"/>
+    <rect y="11" width="16" height="2.5" rx="1"/>
+  </svg>
+  Jump To
+</button>
+<div class="jump-to-backdrop" id="jump-to-backdrop"></div>
+<script>
+(function () {
+  var fab      = document.getElementById('jump-to-fab');
+  var backdrop = document.getElementById('jump-to-backdrop');
+  var sidebar  = document.querySelector('.guide-index-sidebar');
+  if (!fab || !sidebar) return;
+
+  // Inject close ribbon at the top of the panel
+  var closeWrap = document.createElement('div');
+  closeWrap.className = 'jump-to-close';
+  closeWrap.innerHTML = '<button class="jump-to-close-btn" aria-label="Close panel">✕ close</button>';
+  sidebar.insertBefore(closeWrap, sidebar.firstChild);
+
+  function open()  { sidebar.classList.add('is-open');    backdrop.classList.add('is-open'); }
+  function close() { sidebar.classList.remove('is-open'); backdrop.classList.remove('is-open'); }
+
+  fab.addEventListener('click', function (e) {
+    e.stopPropagation();
+    sidebar.classList.contains('is-open') ? close() : open();
+  });
+
+  closeWrap.querySelector('button').addEventListener('click', close);
+  backdrop.addEventListener('click', close);
+
+  // Close when any jump link is clicked
+  sidebar.querySelectorAll('a').forEach(function (a) {
+    a.addEventListener('click', close);
+  });
+})();
+</script>
 {% endblock %}
