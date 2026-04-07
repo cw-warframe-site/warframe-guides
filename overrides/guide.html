@@ -10,12 +10,22 @@
   /* Hide Material footer generator line */
   .md-footer-meta { display: none !important; }
 
-  /* Fix TOC into the right gutter, out of the content flow */
+  /* Expand layout to full viewport width, dead space on left only */
+  .md-main__inner {
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 12.1rem !important;
+    padding-right: 1.5rem !important;
+    box-sizing: border-box !important;
+  }
+
+  /* TOC: sticky in normal flow, sits at right edge */
   .md-sidebar--secondary {
-    position: fixed !important;
-    right: 1.5rem !important;
+    position: sticky !important;
     top: 3.5rem !important;
     width: 12.1rem !important;
+    flex-shrink: 0 !important;
     height: fit-content !important;
     background-color: #1c1c1c !important;
   }
@@ -24,11 +34,6 @@
     height: fit-content !important;
     overflow: visible !important;
     background-color: #1c1c1c !important;
-  }
-
-  /* Push content away from the fixed TOC */
-  .md-content__inner {
-    padding-right: 2rem !important;
   }
 
   /* Text + image side by side, image vertically centered */
