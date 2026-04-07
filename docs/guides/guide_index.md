@@ -12,7 +12,7 @@ template: guide-index.html
       <h2>Puzzles &amp; Challenges</h2>
       <ul>
         <li><a href="../duviri-enigmas/">Duviri Enigmas</a></li>
-        <li><a href="#">Gas City Labs</a></li>
+        <li><a href="../gas-city-labs/">Gas City Labs</a></li>
         <li><span class="wip">Halls of Ascension (WIP)</span></li>
       </ul>
     </div>

@@ -23,7 +23,7 @@ In this guide I'll cover the two types of puzzles you'll see (random & Archarbor
 
 When you enter Duviri a set number of enigma puzzles will spawn. If you play solo you will only see single-player puzzles, if you play in a group you will also have multi-player puzzles that spawn as well.
 
-As mentioned in the overview, each puzzle centers around a Paragrimm Hutch (as seen in the picture). At its core, you are matching the 3 sockets hidden around the puzzle with the 3 symbols on the Hutch.
+As mentioned in the overview, each puzzle centers around a Paragrimm Hutch (as seen in the picture). At its core, you are matching the 3 sockets hidden around the puzzle with the 3 symbols on the Hutch. After solving the puzzle, if you want to abort the mission without completing the Duviri Experience, you'll need to earn one additional decree to 'save' the resources collected.
 
 > **Note:** Multiplayer puzzles will have the Hutch initially closed, and will require two players to interact with the side panels of the Hutch to open it.
 
@@ -106,6 +106,8 @@ Once all 4 statues are activated/aligned, the gates underneath the island will r
 Once at the bottom, you'll see 8 sockets and 8 symbols (4 obscured) to match. Thankfully each symbol matches to a specific socket and MOST symbols have unique obscured views, so you can refer to the chart below for an easy guide to the Archarbor puzzle itself.
 
 4 discs are on the opposite side of the room from the 8 symbols. I recommend working on the standard sockets and sockets with energy plates first. Once you're done, then popping the discs off the energy sockets to work on the remaining sockets.
+
+> **Remember!:** Once solved, you'll need to earn one more decree before leaving to 'save' all your loot!
 
 ![Archarbor Puzzle](../images/duviri-enigmas/Archarbor-puzzle.webp){ .center width=80% }
 
