@@ -2,8 +2,10 @@
 
 {% block extrahead %}
 <style>
-  /* Hide left nav sidebar */
-  .md-sidebar--primary { display: none !important; }
+  /* Hide left nav sidebar (but not on mobile — drawer uses it) */
+  @media (min-width: 631px) {
+    .md-sidebar--primary { display: none !important; }
+  }
 
   /* Hide Material footer generator line */
   .md-footer-meta { display: none !important; }
@@ -51,6 +53,25 @@
     width: 100%;
     border-radius: 3px;
     border: 2.5px solid #b59d47;
+  }
+
+  /* Stack text above image at narrow widths */
+  @media (max-width: 820px) {
+    .guide-text-image {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .guide-text-image__text {
+      width: 100%;
+    }
+
+    .guide-text-image__img {
+      flex: 0 0 auto;
+      width: 100%;
+      max-width: 480px;
+      margin: 0 auto;
+    }
   }
 
   /* Page title: centered, matching guide index size */
