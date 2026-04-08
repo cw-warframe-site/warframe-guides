@@ -21,7 +21,7 @@ player has experienced. It serves as a progression milestone that unlocks weapon
 increases resource caps, and provides other gameplay benefits as you climb. A player's
 current MR and mastery points can be found at any time by checking their profile page.
 
-![Mastery breakdown](../images/mastery/mastery.webp){ .center .bordered width=50% }
+![Mastery breakdown](../images/mastery/mastery.webp){ .center .bordered width=30% }
 
 ## Why Mastery Rank Matters
 
@@ -85,6 +85,6 @@ Some mastery sources are not worth pursuing until you are more established:
 Outside of the in-game profile, two external tools are commonly used to track mastery and
 plan which items to level next:
 
-- **AlecaFrame** is a third-party companion app with detailed mastery tracking.
+- **AlecaFrame** is a third-party companion app with detailed mastery tracking
 - This **[community-made spreadsheet](https://docs.google.com/spreadsheets/d/14rUGFOPCOocudfihokrCBy-OKNhm3DNaHLSwowjDMzE/edit?gid=495342756#gid=495342756)**
-  is another helpful resource. (Credit: XAZU, TsukiSage, Sevyx, and others)
+  is another helpful resource (Credit: XAZU, TsukiSage, Sevyx, and others)
