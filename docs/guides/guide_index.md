@@ -76,7 +76,7 @@ template: guide-index.html
       </ul>
     </div>
 
-    <div class="guide-category" id="open-world">
+    <div class="guide-category" id="open-worlds">
       <h2>Open Worlds</h2>
       <ul>
         <li><span class="wip">K-Drive(WIP)</span></li>
@@ -114,7 +114,7 @@ template: guide-index.html
       <li><a href="#game-systems">Game Systems</a></li>
       <li><a href="#gear-systems">Companions &amp; Gear Systems</a></li>
       <li><a href="#mid-late-systems">Mid / Late Game Systems</a></li>
-      <li><a href="open-world">Open Worlds</a></li>
+      <li><a href="open-worlds">Open Worlds</a></li>
       <li><a href="#puzzles-challenges">Puzzles &amp; Challenges</a></li>
       <li><a href="tools-charts">Tools &amp; Charts</a></li>
     </ul>
