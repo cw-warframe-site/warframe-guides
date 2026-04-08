@@ -437,3 +437,8 @@ img.bordered {
   border: 2.5px solid #b59d47;
 }
 
+/* Enforce a minimum width floor without locking the width itself */
+img.floored {
+  min-width: min(300px, 100%);
+}
+

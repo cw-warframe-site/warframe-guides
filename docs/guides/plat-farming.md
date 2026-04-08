@@ -42,7 +42,7 @@ Keep in mind the values above are estimates. Prices vary depending on the relic 
 
 Selling full prime sets will take more effort since you'll need to collect every piece, but it will typically earns you a bit more than selling parts individually. Sets also reduce the number of trades you need to make, which matters early on when your daily trade limit is low.
 
-![Yareli Prime WFM](../images/plat-farming/wfm-chart.webp){ .center .bordered width=60% }
+![Yareli Prime WFM](../images/plat-farming/wfm-chart.webp){ .center .bordered .floored width=60% }
 
 Example: At the time of writing, a full Yareli Prime set sells for around 60-65p. Selling her four pieces individually averages around 52p total (5p, 2p, 20p, and 25p per piece).
 

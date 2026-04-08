@@ -21,7 +21,7 @@ Throughout most of the early and mid game, you're going to hit multiple walls wh
 ## Where to Find Resources
 In-game, when viewing a planet, look to the bottom right corner for the Nightwave/Resource toggle button. Switch to the resource side and hover over the extractor icon to see what drops are available on that planet. Check out the chart below for a list of all the major drops for each system.
 
-![Resource Map](../images/resource-farming/resource-map.webp){ .center .bordered width=90% }
+![Resource Map](../images/resource-farming/resource-map.webp){ .center .bordered .floored width=90% }
 
 ## Boosting Loot
 

@@ -85,13 +85,13 @@ Running regular missions and passively leveling will always be a viable option, 
 
 The goal is a weapon that can one-shot enemies from range and a Warframe build that lets you float in the air for an extended period of time. Pictures below show an example 0 forma Nataruk build and the recommended Warframe mods (priority: Aero Vantage > Aerodynamic > aim glide duration mods).
 
-![POE Gear](../images/affinity-farming/poe-gear.webp){ .center .bordered width=50% }
+![POE Gear](../images/affinity-farming/poe-gear.webp){ .center .bordered .floored width=50% }
 
 **Step 2.** Adjust your visibility settings
 
 Go into Settings, search "enemy highlights", turn it up to max, and set the color to white.
 
-![Enemy Highlights](../images/affinity-farming/enemy-highlights.webp){ .center .bordered width=50% }
+![Enemy Highlights](../images/affinity-farming/enemy-highlights.webp){ .center .bordered .floored width=50% }
 
 **Step 3.** Run the mission
 
@@ -142,7 +142,7 @@ Here's the video guide I personally used. If you're a visual learner and want an
 
 **Step 3.** Assign the crewmate as your on-call and equip the Kuva Zarr (or your chosen weapon) as their loadout. Then add the on-call crew summon to your gear wheel.
 
-![on-call-gear](../images/affinity-farming/on-call-gear.webp){ .center .bordered width=60% }
+![on-call-gear](../images/affinity-farming/on-call-gear.webp){ .center .bordered .floored width=60% }
 
 **Step 4.** Collect party members as needed. If running solo, bring a strong back-up weapon. Crewmates only last 3 minutes before going on a 7 minute cooldown, so you will need to hold out for the remaining 2 minutes of the survival.
 
@@ -152,4 +152,4 @@ Here's the video guide I personally used. If you're a visual learner and want an
 
 **Step 7.** Extract at 5 minutes or when maxed.
 
-![spawn 1](../images/affinity-farming/spawn1.webp){ .center .bordered width=60% }
+![spawn 1](../images/affinity-farming/spawn1.webp){ .center .bordered .floored width=60% }

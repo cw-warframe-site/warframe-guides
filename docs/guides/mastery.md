@@ -21,7 +21,7 @@ player has experienced. It serves as a progression milestone that unlocks weapon
 increases resource caps, and provides other gameplay benefits as you climb. A player's
 current MR and mastery points can be found at any time by checking their profile page.
 
-![Mastery breakdown](../images/mastery/mastery.webp){ .center .bordered width=30% }
+![Mastery breakdown](../images/mastery/mastery.webp){ .center .bordered .floored width=30% }
 
 ## Why Mastery Rank Matters
 
