@@ -40,6 +40,7 @@ Affinity range is the area around a player that grants other allies affinity whe
 </figure>
 </div>
 
+---
 ## General Affinity Farms
 
 Running regular missions and passively leveling will always be a viable option, but here are some missions, locations, and tips that can help speed up the process.
@@ -68,6 +69,7 @@ Running regular missions and passively leveling will always be a viable option, 
 - Smeeta's Charm can give a +300% affinity buff randomly
 - Works well in conjunction with general affinity farms and the SP elara method below to reduce farm time
 
+---
 ## Plains of Eidolon Stealth Farming
 
 ### Key Points
@@ -122,6 +124,7 @@ Here's the video guide I personally used. If you're a visual learner and want an
 
 [Plains of Eidolon Leveling by NoSympathyyCA](https://youtu.be/Z6pQMaYj-EE?si=SSqpl-UA9giEWbQz&t=1130)
 
+---
 ## Steel Path Elara
 
 ### Key Points
