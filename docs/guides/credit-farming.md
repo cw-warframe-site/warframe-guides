@@ -22,7 +22,6 @@ Credits are one of your basic currencies and are used for many things like ranki
 The farming strategies below cover some of the major/popular methods and are ordered by early accessibility, investment needed, and efficiency. 
 
 ---
-
 ## Dark Sector Missions
 
 <div class="guide-text-image" markdown="1">
@@ -39,7 +38,6 @@ On clearing the mission you'll get an extra 12-20k credits depending on the miss
 </div>
 
 ---
-
 ## The Index
 
 The Index is a special Corpus node on Neptune where you wager credits and fight in a Corpus arena for large sums of credits. 
@@ -80,7 +78,6 @@ If you lose, you will lose ALL credits earned in previous rounds so play safe!
 The Index has two potential maps (an indoor and outdoor map). Players generally agree that the outdoor map has better spawn locations. To guarantee the outdoor map always happens, start the Index from a relay or your clan’s dojo.
 
 ---
-
 ## Techrot Safes
 
 The Techrot Safe is an object that will spawn in any Höllvania mission outside of exterminates. Opening it requires a biocode and grants 100k credits, a 1999 arcane, and a Hex Treasure.
@@ -125,7 +122,6 @@ After that, run the rest of the mission to completion and extract. I've also lin
 [Techrot Safes Explained!](https://www.youtube.com/shorts/LfDR9tTdWQM)
 
 ---
-
 ## Profit Taker (Stage 4)
 
 Profit Taker is one of the late game bosses found in the Orb Vallis. It requires rank 5 with the Solaris United to challenge the Profit Taker and stage 4 grants 5x25k credits, a Crisma Toroid, and multiple debt bonds on completion. With a fully optimized setup, this can often be cleared in 1-2 minutes which makes this farm very efficient. Even as a semi casual player my personal average is around 3:30-4 minutes.
@@ -153,7 +149,6 @@ To best prepare for Profit Taker, I recommend taking a look at the Profit Taker 
 [Profit Taker Guide by Uumm, Mebius, Iterniam, Kalaay & others](https://profit-taker.com)
 
 ---
-
 ## Secura Lecta Farming
 
 The Secura Lecta will drop additional credits based on your Mastery Rank, capping out at MR18 at a 4x credit multiplier. 

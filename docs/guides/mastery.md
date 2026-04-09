@@ -23,6 +23,7 @@ current MR and mastery points can be found at any time by checking their profile
 
 ![Mastery breakdown](../images/mastery/mastery.webp){ .center .bordered .floored width=30% }
 
+---
 ## Why Mastery Rank Matters
 
 MR is not just a prestige metric. It provides tangible gameplay benefits as you climb:
@@ -48,6 +49,7 @@ MR is not just a prestige metric. It provides tangible gameplay benefits as you 
 
 Additionally each Legendary Rank will grant one free Legendary Core, which can max out any mod at no resource cost.
 
+---
 ## What Grants Mastery Points?
 
 Mastery points can be earned through a variety of tasks including:
@@ -80,6 +82,7 @@ Some mastery sources are not worth pursuing until you are more established:
 - **Necramechs** - ranking them up can be difficult due to limited affinity farming options
 - **K-Drives** - no combat utility, only worth pursuing early on if you enjoy the system
 
+---
 ## Tracking Your Mastery Progress
 
 Outside of the in-game profile, two external tools are commonly used to track mastery and

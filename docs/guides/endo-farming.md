@@ -21,7 +21,6 @@ Endo is a resource you'll need at all stages of the game since it's used to rank
 Below are several farming methods and resources for farming endo at different stages of the game
 
 ---
-
 ## Beginner Friendly Farms
 ### Ayatan Sculptures & Maroo's Weekly Treasure Hunt
 Ayatan sculptures are small orokin devices that you can find in your mission. These can be slotted with ayatan stars, which randomly drop from broken crates / lockers, allowing you to 'awaken' the sculpture. 
@@ -39,7 +38,6 @@ This is pretty self explanatory. In your mod bench, you can dissolve your high d
 Deimos bounties have pretty solid endo rewards when you're still early on in the game. Higher tier bounties have better endo rewards, so queue publicly or with friends if needed. 
 
 ---
-
 ## Mid Game Farms
 ### Sorties
 Sorties can be run daily and have 40% chance to give endo related rewards. This breaks down to:
@@ -56,7 +54,6 @@ Veil Proxima missions have decent endo caches rewards and give a lot of scrap pa
 Certain bounty tiers in the Zariman, Sanctum Anatomica, and 1999 have endo rewards of 3-5k endo. You want to farm Tier 3 Zariman bounties and Tier 3-5 Sanctum/1999 bounties ideally when they have a quick mission type like Exterminates and Legacyte Captures.
 
 ---
-
 ## Late Game / Heavy Investment Farms
 ### Arena
 Arena Farming is a pretty complicated strategy which involves running Sedna Arena missions with specific frames, weapons and builds to maximize endo drops from enemies (can get up to 5k/min with it). There's a fantastic guide which explains everything about the process here: 

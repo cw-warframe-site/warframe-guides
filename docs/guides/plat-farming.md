@@ -17,6 +17,7 @@ template: guide.html
 
 </div>
 
+---
 ## Overview
 
 Platinum is Warframe's main premium currency. It's used primarily for purchasing Warframe and weapon slots, cosmetics, and consumables like forma & orokin reactors/catalysts from in-game market. While platinum can be bought directly, it can also be earned for 'free' through trading with other players.
@@ -25,7 +26,9 @@ This guide covers several reliable ways to earn platinum early on, before reachi
 
 I also strongly encourage using [Warframe.market](https://warframe.market/), a site built to make trading significantly easier. Check out my guide if you want help getting started with it!
 
+---
 ## Prime Parts / Prime Sets
+
 Selling prime parts is one of the most accessible ways for new players to earn platinum. When you crack void relics, you can earn prime parts and blueprints that can be sold to other players.
 
 > **Note:** Prime parts and blueprints that you have crafted in the Foundry are not tradeable. Only the raw drops from relics can be sold.
@@ -46,6 +49,7 @@ Selling full prime sets will take more effort since you'll need to collect every
 
 Example: At the time of writing, a full Yareli Prime set sells for around 60-65p. Selling her four pieces individually averages around 52p total (5p, 2p, 20p, and 25p per piece).
 
+---
 ## Ayatan Sculptures
 
 Ayatan sculptures are decorative Orokin artifacts that can be sold to Maroo for Endo or sold to other players for platinum. They are a solid early option for earning plat and are fairly easy to come across.
@@ -62,6 +66,7 @@ There are several ways to obtain Ayatan sculptures including:
 
 The most sought-after is the Anasa sculpture, which can sell for around 10p each when filled with stars. That said, any sculpture has value and is worth listing.
 
+---
 ## Nightmare Mods
 
 <div class="guide-text-image" markdown="1">
@@ -79,6 +84,7 @@ Some Nightmare mods are highly sought after due to their strong effects and low 
 </figure>
 </div>
 
+---
 ## Veiled Rivens
 
 Riven mods are special weapon-specific mods originally designed to boost underused or niche weapons. For a deeper dive into Rivens, check out my Riven Guide.
@@ -98,6 +104,7 @@ Here are some average veiled Riven prices at the time of writing:
 
 > **Note:** Prices fluctuate based on market supply and can shift by ±5p or more. Always check Warframe.market before listing.
 
+---
 ## Syndicate Augments
 
 Faction Syndicates are 6 organizations that you choose to align with to earn standing and unlock rewards. For a full breakdown, check out my Syndicate Guide.
@@ -106,6 +113,7 @@ As you climb ranks with a syndicate, you will unlock different rewards, includin
 
 Each augment costs 25,000 standing and can typically be sold for 10-15p. Between daily standing, syndicate missions, and medallions, you should be able to purchase around two augment mods per day.
 
+---
 ## Requiem Relics and Requiem Mods
 
 <div class="guide-text-image" markdown="1">

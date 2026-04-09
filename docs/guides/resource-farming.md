@@ -18,11 +18,14 @@ template: guide.html
 
 Throughout most of the early and mid game, you're going to hit multiple walls when it comes to farming various materials. This guide covers the most effective ways to boost your drops, what options you have for farming locations, and where to go for key resources. By the end, you should have a solid plan for whatever resource is giving you trouble.
 
+---
 ## Where to Find Resources
+
 In-game, when viewing a planet, look to the bottom right corner for the Nightwave/Resource toggle button. Switch to the resource side and hover over the extractor icon to see what drops are available on that planet. Check out the chart below for a list of all the major drops for each system.
 
 ![Resource Map](../images/resource-farming/resource-map.webp){ .center .bordered .floored width=90% }
 
+---
 ## Boosting Loot
 
 There are two main ways you're going to find resources in a mission:
@@ -66,7 +69,9 @@ This strategy focuses on two things: moving fast and breaking containers. The id
 
 To speed things up, bring parkour Archon Shards, use the Praedos, and equip parkour velocity mods like Amalgam Barrel Diffusion. The same boosters and blessings from Strat 1 apply here as well, though you'll often see people skip Steel Path for this strategy. Running normal missions lets players use more offense-focused builds, and at low levels a good box-breaking ability will often clear both containers and enemies in a room.
 
-## Personal Recommendations 
+---
+## Personal Recommendations
+
 Below is a list of uncommon/rare resources I've been asked about and my personal farming recommendations for each. If you have a resource not on the list, let me know through my discord and I'll add it!
 
 - **Argon Crystals** - Hepit, Void. Argon Crystals decay over time and are rarely needed in large quantities, so a box breaker works perfectly here. Mot, Void survival is also a decent option.
