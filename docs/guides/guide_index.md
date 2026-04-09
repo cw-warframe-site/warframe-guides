@@ -95,10 +95,10 @@ template: guide-index.html
     <div class="guide-category" id="tools-charts">
       <h2>Tools &amp; Charts</h2>
       <ul>
+        <li><a href="../aleca/">AlecaFrame</a></li>
         <li><a href="../amp/">Amp Chart</a></li>
         <li><a href="../gun-co/">GunCO Spreadsheet</a></li>
         <li><span class="wip">WFcolorpicker (WIP)</span></li>
-        <li><span class="wip">AlecaFrame (WIP)</span></li>
         <li><span class="wip">Warframe.Market! Trading Made Easy! (WIP)</span></li>
       </ul>
     </div>
