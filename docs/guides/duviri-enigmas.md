@@ -25,7 +25,6 @@ These puzzles are fundamentally not that difficult, but a bit of knowledge can m
 In this guide I'll cover the two types of puzzles you'll see (random & Archarbor), how you find them, and tips for solving them.
 
 ---
-
 ## Randomized Puzzles
 
 <div class="guide-text-image" markdown="1">
@@ -57,7 +56,6 @@ There are many variations to these puzzles, including:
 ![Enigma Sockets](../images/duviri-enigmas/Enigma-sockets.webp){ .center .floored }
 
 ---
-
 ## How to Find Randomized Puzzles
 
 While Paragrimm Hutches spawn randomly, there are fixed locations that they can spawn. What I typically do is fly across Duviri and cover the high density areas for spawns. 
@@ -74,7 +72,6 @@ Additionally, the white circle also indicates the area where all the discs & soc
 ![Enigma Circle](../images/duviri-enigmas/Enigma-circle.webp){ .center .bordered .floored }
 
 ---
-
 ## Archarbors
 
 <div class="guide-text-image" markdown="1">
