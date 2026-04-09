@@ -21,20 +21,24 @@ Players typically refer to amps by a series of numbers, using XXX notation that 
 
 Tiers 1-4 come from the Quills on Cetus, while Tiers 5-7 are obtained from Vox Solaris on Fortuna.
 
+---
 ## Amp Recommendations
 
 Below are some of the amps I've used and recommend for different stages of the game. However, these are not the only viable options, and part of the fun can come from testing out different combinations to find what works best for you.
 
 ### Starter/Early Amps
+
 - **111** - Precision shot with an 'Opticor-esque' alt-fire
 - **123** - Precision shot with an 'Arca Plasmor-like' alt-fire 
 
 ### Mid/Late Amps
+
 - **547** - Burst shot with a ricocheting 'glaive' alt-fire. Fantastic for general purpose use and cascade missions
 - **1X7**  - Good for cascades and eidolon hunting but requires precise aiming
 - **7X7** - Short range **wide** beam. A solid all-purpose option that deals less damage than other prisms but requires very little aim
 \**X can be anything but is typically the 4 or 7 scaffold in the mid/late game*
 
+---
 ## Amp Chart
 
 <div class="amp-wrap">
