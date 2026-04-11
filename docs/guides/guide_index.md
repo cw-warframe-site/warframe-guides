@@ -42,10 +42,10 @@ template: guide-index.html
     <div class="guide-category" id="game-systems">
       <h2>Game Systems</h2>
       <ul>
+        <li><a href="../dissolution/">Arcane Dissolution</a></li>
         <li><span class="wip">Invasions(WIP)</span></li>
         <li><span class="wip">Aya, Vaulting, &amp; Prime Resurgence(WIP)</span></li>
         <li><span class="wip">Focus Schools &amp; Focus Farming</span></li>
-        <li><span class="wip">Arcane Dissolution(WIP)</span></li>
         <li><span class="wip">The Big 6: Your Guide to Faction Syndicates(WIP)</span></li>
         <li><span class="wip">Void Relics Explained! From Farming to Rad Shares(WIP)</span></li>
         <li><span class="wip">Railjack(WIP)</span></li>
