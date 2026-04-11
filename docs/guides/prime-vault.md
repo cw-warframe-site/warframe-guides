@@ -22,7 +22,7 @@ Primes are Orokin-era variants of standard Warframes and weapons, offering impro
 
 Primes are obtained by cracking open Void Relics in Void Fissure missions, and collecting all the parts for a prime allows you to build it in your Foundry.
 
-> **Note:** The stat difference between a weapon and its Prime variant can be significant, but the difference between a Warframe and its Prime is often negligible. Feel free to invest in non-prime Warframes.
+> **Looking for the current unvaulted Primes and Resurgence rotation?** [Jump to Unvaulted Primes and Current Resurgence](#current-primes)
 
 ---
 ## Vaulting Explained
