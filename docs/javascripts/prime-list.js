@@ -3,8 +3,9 @@
     var el = document.getElementById('recent-primes');
     if (!el) return;
 
-    var siteRoot = new URL(window.__mkdocsBase || '/', window.location.href).href;
-    var dataUrl = siteRoot.replace(/\/?$/, '/') + 'data/primes.json';
+    var siteRoot = new URL(window.__mkdocsBase || '/', window.location.href).href.replace(/\/?$/, '/');
+    var dataUrl = siteRoot + 'data/primes.json';
+
     fetch(dataUrl)
       .then(function (r) { return r.json(); })
       .then(function (data) {
@@ -12,35 +13,52 @@
           .slice()
           .sort(function (a, b) { return b.added.localeCompare(a.added); })
           .slice(0, 7);
-        render(el, sorted);
+        render(el, sorted, siteRoot);
       });
   }
 
-  function render(el, primes) {
-    var ul = document.createElement('ul');
-    ul.className = 'prime-list';
+  function render(el, primes, siteRoot) {
+    var grid = document.createElement('div');
+    grid.className = 'prime-grid';
 
-    primes.forEach(function (p) {
-      var li = document.createElement('li');
-      li.className = 'prime-list__item';
+    primes.forEach(function (p, i) {
+      var card = document.createElement('a');
+      card.href = p.wiki;
+      card.className = 'prime-card';
+      card.target = '_blank';
+      card.rel = 'noopener';
 
-      var nameLink = document.createElement('a');
-      nameLink.href = p.wiki;
-      nameLink.className = 'prime-list__name';
-      nameLink.textContent = p.name;
-      nameLink.target = '_blank';
-      nameLink.rel = 'noopener';
+      var imgWrap = document.createElement('div');
+      imgWrap.className = 'prime-card__img-wrap';
 
-      var weapons = document.createElement('span');
-      weapons.className = 'prime-list__weapons';
-      weapons.textContent = p.weapons.map(function (w) { return w.name; }).join(' · ');
+      var img = document.createElement('img');
+      img.className = 'prime-card__img';
+      img.src = siteRoot + 'images/primes/' + p.image;
+      img.alt = p.name;
+      imgWrap.appendChild(img);
 
-      li.appendChild(nameLink);
-      li.appendChild(weapons);
-      ul.appendChild(li);
+      if (i === 0) {
+        var badge = document.createElement('span');
+        badge.className = 'prime-card__badge';
+        badge.textContent = 'Newest';
+        imgWrap.appendChild(badge);
+      } else if (i === primes.length - 1) {
+        var badge = document.createElement('span');
+        badge.className = 'prime-card__badge prime-card__badge--cycle';
+        badge.textContent = 'Next to Cycle';
+        imgWrap.appendChild(badge);
+      }
+
+      var name = document.createElement('div');
+      name.className = 'prime-card__name';
+      name.textContent = p.name;
+
+      card.appendChild(imgWrap);
+      card.appendChild(name);
+      grid.appendChild(card);
     });
 
-    el.appendChild(ul);
+    el.appendChild(grid);
   }
 
   if (document.readyState === 'loading') {
