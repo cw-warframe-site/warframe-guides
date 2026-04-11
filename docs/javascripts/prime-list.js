@@ -54,7 +54,7 @@
       } else if (i === primes.length - 1) {
         var badge = document.createElement('span');
         badge.className = 'prime-card__badge prime-card__badge--cycle';
-        badge.textContent = 'Next to Cycle';
+        badge.textContent = 'Vaulted Next';
         imgWrap.appendChild(badge);
       }
 

@@ -641,7 +641,7 @@ img.floored {
 }
 
 .prime-card.is-flipped {
-  transform: rotateX(180deg);
+  transform: rotateY(180deg);
 }
 
 /* Shared face rules */
@@ -740,7 +740,7 @@ img.floored {
 .prime-card__back {
   position: absolute;
   inset: 0;
-  transform: rotateX(180deg);
+  transform: rotateY(180deg);
   background: #26221a;
   border: 1.5px solid #2a2416;
   display: flex;
@@ -754,7 +754,7 @@ img.floored {
 
 .prime-card__back-name {
   font-family: 'Cinzel', serif;
-  font-size: clamp(0.6rem, 1.1vw, 0.75rem);
+  font-size: clamp(0.7rem, 1.3vw, 0.88rem);
   color: #b59d47 !important;
   text-decoration: none !important;
   text-align: center;
@@ -780,24 +780,15 @@ img.floored {
   width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 0.3rem;
+  gap: 0.4rem;
 }
 
 .prime-card__weapon-list li {
-  display: flex;
-  align-items: baseline;
-  gap: 0.35rem;
-}
-
-.prime-card__weapon-list li::before {
-  content: '⬦';
-  color: #b59d47;
-  font-size: 0.65rem;
-  flex-shrink: 0;
+  text-align: center;
 }
 
 .prime-card__weapon-link {
-  font-size: clamp(0.6rem, 1vw, 0.72rem);
+  font-size: clamp(0.68rem, 1.1vw, 0.82rem);
   color: #dbd2ad !important;
   text-decoration: none !important;
   line-height: 1.3;
