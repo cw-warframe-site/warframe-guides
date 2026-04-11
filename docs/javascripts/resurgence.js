@@ -18,7 +18,7 @@
     }
 
     // ── Fetch fresh resurgence data ──────────────────
-    fetch(siteRoot + 'data/resurgence.json')
+    fetch('https://gist.githubusercontent.com/cw-warframe-site/af2366dd0b29a878fb03a7f62f0411c9/raw/resurgence.json')
       .then(function (r) { return r.json(); })
       .then(function (data) {
         var now = new Date();
