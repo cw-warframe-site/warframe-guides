@@ -65,6 +65,7 @@ The following are commonly recommended methods for farming Focus, but they are b
 
 **Smeeta Kavat** is more of an honorable mention, but its Charm buff can give a 300% affinity buff, which stacks well with affinity-focused farms like ESO.
 
+---
 ## Artifacts & Tauron Strikes
 
 After completing The Old Peace, you gain access to La Cathédrale, which houses the Devil's Triad: Marie, Lyon, and Roathe. Marie sells Tektolyst Artifacts, which permanently unlock a school's ultimate ability, the Tauron Strike.
