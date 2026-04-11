@@ -35,6 +35,12 @@
     });
   }
 
+  function formatTime(expiresStr) {
+    return new Date(expiresStr).toLocaleTimeString('en-US', {
+      hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+    });
+  }
+
   function render(el, primes, expires, siteRoot) {
     var wrap = document.createElement('div');
     wrap.className = 'resurgence-wrap';
@@ -47,7 +53,8 @@
     if (days > 0) {
       expiry.innerHTML =
         'Available until <span class="resurgence-expiry__date">' + formatDate(expires) + '</span>' +
-        ' &mdash; <span class="resurgence-expiry__days">' + days + ' day' + (days === 1 ? '' : 's') + ' remaining</span>';
+        ' at <span class="resurgence-expiry__time">' + formatTime(expires) + '</span>' +
+        ' - <span class="resurgence-expiry__days">' + days + ' day' + (days === 1 ? '' : 's') + ' remaining</span>';
     } else {
       expiry.innerHTML = '<span class="resurgence-expiry__days">This Resurgence has ended.</span>';
     }
