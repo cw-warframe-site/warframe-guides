@@ -746,13 +746,18 @@ img.floored {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 0;
   padding: 1rem 0.6rem;
   box-sizing: border-box;
 }
 
 .prime-card__back-name {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
   font-family: 'Cinzel', serif;
   font-size: clamp(0.82rem, 1.5vw, 1rem);
   color: #b59d47 !important;
@@ -778,9 +783,11 @@ img.floored {
   margin: 0 !important;
   padding: 0 !important;
   width: 100%;
+  flex: 1;
   display: flex;
   flex-direction: column;
-  gap: clamp(0.4rem, 1.2vw, 0.6rem);
+  justify-content: space-evenly;
+  gap: 0;
 }
 
 .prime-card__weapon-list li {
