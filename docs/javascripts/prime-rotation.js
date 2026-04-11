@@ -1,8 +1,9 @@
-(function () {
+function initPrimeRotation() {
   var grid = document.getElementById('prime-grid');
   if (!grid) return;
 
-  fetch('/data/primes.json')
+  var dataUrl = new URL('data/primes.json', document.baseURI).href;
+  fetch(dataUrl)
     .then(function (r) { return r.json(); })
     .then(function (data) {
       var sorted = data.slice().sort(function (a, b) {
@@ -37,4 +38,10 @@
     .catch(function (err) {
       console.warn('Prime rotation: could not load primes.json', err);
     });
-}());
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initPrimeRotation);
+} else {
+  initPrimeRotation();
+}
