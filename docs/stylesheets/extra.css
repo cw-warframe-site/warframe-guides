@@ -784,9 +784,9 @@ img.floored {
   padding: 0 !important;
   width: 100%;
   flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-evenly !important;
   gap: 0;
 }
 
