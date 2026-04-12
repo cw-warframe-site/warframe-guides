@@ -194,7 +194,7 @@
 
     // ── Card grid ───────────────────────────────────
     var grid = document.createElement('div');
-    grid.className = 'resurgence-grid';
+    grid.className = 'prime-grid';
 
     primes.forEach(function (p) {
       var cardWrap = document.createElement('div');
@@ -282,6 +282,16 @@
       cardWrap.appendChild(card);
       grid.appendChild(cardWrap);
     });
+
+    // Center 2 tiles in the 4-column grid with invisible spacers
+    if (primes.length === 2) {
+      var spacerBefore = document.createElement('div');
+      spacerBefore.className = 'resurgence-spacer';
+      grid.insertBefore(spacerBefore, grid.firstChild);
+      var spacerAfter = document.createElement('div');
+      spacerAfter.className = 'resurgence-spacer';
+      grid.appendChild(spacerAfter);
+    }
 
     wrap.appendChild(grid);
     el.appendChild(wrap);

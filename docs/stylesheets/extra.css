@@ -846,16 +846,13 @@ img.floored {
   font-style: italic;
 }
 
-/* 2-column grid that centers itself — whitespace fills the outer gaps */
-.resurgence-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 320px));
-  gap: 1.25rem;
-  justify-content: center;
+/* Invisible spacer cards — used to center 2 tiles in a 4-column prime-grid */
+.resurgence-spacer {
+  visibility: hidden;
 }
 
-@media (max-width: 440px) {
-  .resurgence-grid { grid-template-columns: repeat(2, 1fr); }
+@media (max-width: 900px) {
+  .resurgence-spacer { display: none; }
 }
 
 /* "Updating" notice — shown when data is more than 7 days stale */
