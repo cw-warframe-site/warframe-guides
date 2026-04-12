@@ -42,6 +42,7 @@ Waybounds are unique nodes that can be "unbound" from the focus school for 750,0
 ## How Do I Get Focus?
 
 Focus can be earned in four ways:
+
 1. **Focus Lenses** - Items attached to your gear that convert a portion of 
 excess affinity into Focus. There are four tiers (Regular, Greater, Eidolon, and Lua) that convert between 2% and 5.5% of excess affinity.
 2. **Convergence Orbs** - Yellow glowing pickups that grant 5,000 Focus to your active school and multiply affinity-to-Focus conversion by 10x for 45 seconds. These spawn periodically as long as you have a lens equipped.
