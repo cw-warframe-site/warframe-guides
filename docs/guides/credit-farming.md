@@ -12,7 +12,7 @@ template: guide.html
 - [The Index](#the-index)
 - [Techrot Safes](#techrot-safes)
 - [Profit Taker](#profit-taker)
-- [Secura Lecta Farm](#secura-lecta-farm)
+- [Secura Lecta Farming](#secura-lecta-farming)
 
 </div>
 
@@ -122,7 +122,7 @@ After that, run the rest of the mission to completion and extract. I've also lin
 [Techrot Safes Explained!](https://www.youtube.com/shorts/LfDR9tTdWQM)
 
 ---
-## Profit Taker (Stage 4)
+## Profit Taker
 
 Profit Taker is one of the late game bosses found in the Orb Vallis. It requires rank 5 with the Solaris United to challenge the Profit Taker and stage 4 grants 5x25k credits, a Crisma Toroid, and multiple debt bonds on completion. With a fully optimized setup, this can often be cleared in 1-2 minutes which makes this farm very efficient. Even as a semi casual player my personal average is around 3:30-4 minutes.
 

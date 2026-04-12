@@ -659,11 +659,12 @@ img.floored {
   display: flex;
   flex-direction: column;
   background: #26221a;
-  border: 1.5px solid #2a2416;
+  border: 1.5px solid #5c4d22;
   transition: border-color 0.15s ease;
 }
 
-.prime-card-wrap:hover .prime-card__front {
+.prime-card-wrap:hover .prime-card__front,
+.prime-card-wrap:hover .prime-card__back {
   border-color: #b59d47;
 }
 
@@ -742,7 +743,8 @@ img.floored {
   inset: 0;
   transform: rotateY(180deg);
   background: #26221a;
-  border: 1.5px solid #2a2416;
+  border: 1.5px solid #5c4d22;
+  transition: border-color 0.15s ease;
   display: flex;
   flex-direction: column;
   align-items: center;
