@@ -43,10 +43,10 @@ template: guide-index.html
       <h2>Game Systems</h2>
       <ul>
         <li><a href="../dissolution/">Arcane Dissolution</a></li>
+        <li><a href="../faction-syndicates/">Faction Syndicates: The Big Six</a></li>
+        <li><a href="../focus/">Focus and the Five Schools</a></li>
         <li><a href="../prime-vault/">Primes, Vaulting, &amp; Resurgence</a></li>
         <li><span class="wip">Invasions(WIP)</span></li>
-        <li><a href="../focus/">Focus and the Five Schools</a></li>
-        <li><span class="wip">The Big 6: Your Guide to Faction Syndicates(WIP)</span></li>
         <li><span class="wip">Void Relics Explained! From Farming to Rad Shares(WIP)</span></li>
         <li><span class="wip">Railjack(WIP)</span></li>
       </ul>
@@ -116,7 +116,7 @@ template: guide-index.html
       <li><a href="#mid-late-systems">Mid / Late Game Systems</a></li>
       <li><a href="#open-worlds">Open Worlds</a></li>
       <li><a href="#puzzles-challenges">Puzzles &amp; Challenges</a></li>
-      <li><a href="tools-charts">Tools &amp; Charts</a></li>
+      <li><a href="#tools-charts">Tools &amp; Charts</a></li>
     </ul>
   </aside>
 
