@@ -45,10 +45,10 @@ template: guide-index.html
         <li><a href="../dissolution/">Arcane Dissolution</a></li>
         <li><a href="../faction-syndicates/">Faction Syndicates: The Big Six</a></li>
         <li><a href="../focus/">Focus and the Five Schools</a></li>
+        <li><a href="../invasions/">Invasions</a></li>
         <li><a href="../prime-vault/">Primes, Vaulting, &amp; Resurgence</a></li>
-        <li><span class="wip">Invasions(WIP)</span></li>
-        <li><span class="wip">Void Relics Explained! From Farming to Rad Shares(WIP)</span></li>
-        <li><span class="wip">Railjack(WIP)</span></li>
+        <li><a href="../void-relics/">Void Relics Explained</a></li>
+        <li><span class="wip">Railjack (TBD)</span></li>
       </ul>
     </div>
 
@@ -71,7 +71,7 @@ template: guide-index.html
         <li><span class="wip">Kuva Liches and Sisters of Parvos(WIP)</span></li>
         <li><span class="wip">Technocyte Codas(WIP)</span></li>
         <li><span class="wip">Arbitrations</span></li>
-        <li><span class="wip">Eidolon Hunting</span></li>
+        <li><a href="../eidolons/">Eidolon Hunting</a></li>
         <li><span class="wip">Cascade Guide</span></li>
       </ul>
     </div>
