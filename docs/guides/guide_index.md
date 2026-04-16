@@ -61,7 +61,7 @@ template: guide-index.html
         <li><span class="wip">Companions: Other Robotics</span></li>
         <li><a href="../rivens/">Riven Guide</a></li>
         <li><a href="../valence/">Valence Fusion</a></li>
-        <li><span class="wip">Helminth: Subsumes, Invigorations, and Archon Shards</span></li>
+        <li><a href="../helminth/">Helminth System</a></li>
       </ul>
     </div>
 
