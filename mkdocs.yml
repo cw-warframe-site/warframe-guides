@@ -41,3 +41,4 @@ extra_javascript:
   - javascripts/items-cache.js
   - javascripts/prime-list.js
   - javascripts/resurgence.js
+  - javascripts/sentinel-images.js

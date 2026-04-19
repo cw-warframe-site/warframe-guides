@@ -297,7 +297,7 @@ body {
   font-size: 1.2rem;
   flex-shrink: 0;
   position: relative;
-  top: 0.1em;
+  top: -0.05em;
 }
 
 .guide-category li a {
@@ -311,6 +311,45 @@ body {
 .guide-category li .wip {
   opacity: 0.5;
 }
+
+/* ── Guide Index: sub-group (e.g. Companions) ────── */
+.guide-category li.guide-subgroup {
+  flex-direction: column;
+  align-items: flex-start;
+  padding-bottom: 0;
+}
+
+.guide-category li.guide-subgroup::before {
+  display: none;
+}
+
+.guide-subgroup__label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: #dbd2ad;
+}
+
+.guide-subgroup__label::before {
+  content: '⬦';
+  color: #b59d47;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  position: relative;
+  top: -0.05em;
+}
+
+.guide-subgroup__items {
+  padding-left: 1.5rem !important;
+  width: 100%;
+  margin: 0 !important;
+}
+
+.guide-subgroup__items li {
+  padding: 0.02rem 0;
+}
+
 
 /* ── Guide Index: collapse sidebar at 820px ──────── */
 @media (max-width: 820px) {

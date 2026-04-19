@@ -55,10 +55,16 @@ template: guide-index.html
     <div class="guide-category" id="gear-systems">
       <h2>Companions &amp; Gear Systems</h2>
       <ul>
-        <li><span class="wip">Companions: Intros, Overviews, and Synergies!(WIP)</span></li>
-        <li><span class="wip">Companions: Beasts(WIP)</span></li>
-        <li><span class="wip">Companions: Sentinels; Focus Farming</span></li>
-        <li><span class="wip">Companions: Other Robotics</span></li>
+        <li class="guide-subgroup">
+          <span class="guide-subgroup__label">Companions</span>
+          <ul class="guide-subgroup__items">
+            <li><a href="../companion-ov/">Overview &amp; Companion Types</a></li>
+            <li><a href="../companion-mod/">Modding Companions</a></li>
+            <li><a href="../companion-beast/">Beasts</a></li>
+            <li><a href="../companion-sent/">Sentinels</a></li>
+            <li><a href="../companion-robo/">Other Robotics</a></li>
+          </ul>
+        </li>
         <li><a href="../rivens/">Riven Guide</a></li>
         <li><a href="../valence/">Valence Fusion</a></li>
         <li><a href="../helminth/">Helminth System</a></li>
