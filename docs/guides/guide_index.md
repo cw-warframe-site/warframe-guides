@@ -33,9 +33,9 @@ template: guide-index.html
         <li><a href="../mod-basics-2/">The Basics: Stats &amp; Combat Terminology</a></li>
         <li><a href="../mod-damage/">Damage Types &amp; Status Effects</a></li>
         <li><a href="../mod-adv/">Modding: Advanced Concepts</a></li>
+        <li><a href="../mod-warframes/">Modding: A Checklist for Warframes</a></li>
         <li><span class="wip">Learning to Mod: A Checklist for Melees (WIP)</span></li>
         <li><span class="wip">Learning to Mod: A Checklist for Guns (WIP)</span></li>
-        <li><span class="wip">Learning to Mod: A Checklist for Warframes (WIP)</span></li>
         <li><a href="../railjack-max/">Railjack Optimization</a></li>
       </ul>
     </div>

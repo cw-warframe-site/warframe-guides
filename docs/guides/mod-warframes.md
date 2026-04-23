@@ -8,6 +8,15 @@ template: guide.html
 <p class="inline-toc__title">Table of Contents</p>
 
 - [Overview](#overview)
+- [The Checklist](#the-checklist)
+- [1. What Do All the Abilities Do?](#1-what-do-all-the-abilities-do)
+- [2. What's My Playstyle?](#2-whats-my-playstyle)
+- [3. How Do I Survive?](#3-how-do-i-survive)
+- [4. What Stats Should I Mod?](#4-what-stats-should-i-mod)
+- [5. What QoL Would Be Good?](#5-what-qol-would-be-good)
+- [Putting It All Together](#putting-it-all-together)
+- [Example: Basic Frost Build](#example-basic-frost-build)
+- [Example: SP Frost Build](#example-sp-frost-build)
 
 </div>
 
@@ -39,10 +48,10 @@ Most Warframes have multiple build archetypes so the second step is to figure ou
 Most builds fall into three general archetypes:
 
 - **Weapon Platforms** - Builds that focus purely on buffing your weapons and letting your guns or melee do the damage (e.g. Roar Rhino builds)
-- **Casters** - Builds that focus on abilities or exalted weapons as your primary damage source (e.g. Grasp of Lokh Xaku)
+- **Casters** - Builds that focus on abilities or exalted weapons as your primary damage source (e.g. Grasp of Lohk Xaku)
 - **Hybrid / Utility** - Builds that provide utility or flexibility where you don't specialize into either of the above (e.g. Despoil Desecrate Nekros)
 
-Foe example, here are my weapon platform and caster summoner Volt builds side by side. Each functions very differently and as such are modded quite differently. 
+For example, here are my weapon platform and caster summoner Volt builds side by side. Each functions very differently and as such are modded quite differently. 
 
 <div class="guide-image-pair">
   <figure>
@@ -118,7 +127,7 @@ Overguard is a special defensive stat that grants immunity to statuses and crowd
 
 ### Invincibility
 
-True invincibility is the holy grail of defensive options. However, outside of a few frames like Revenant and Oberon, frames looking to get conditional invincibility on thier builds can use the Rolling Guard mod, which grants cleanses status effects and grants 3 seconds of invincibility on roll and which goes on a 7 second cooldown afterwards.
+True invincibility is the holy grail of defensive options. However, outside of a few frames like Revenant and Oberon, frames looking to get conditional invincibility on their builds can use the Rolling Guard mod, which cleanses status effects and grants 3 seconds of invincibility on roll and which goes on a 7 second cooldown afterwards.
 
 ---
 ## 4. What Stats Should I Mod?
@@ -127,20 +136,21 @@ After deciding on a build style and defensive options, the fourth step is to fig
 
 For example, Rhino's Roar scales with Strength, Range, and Duration. For a solo weapon platform build, you can skip range and focus on Strength and Duration to get a very strong lengthy buff.
 
-> **Note:** Some abilities have augment mods that can greatly change how the ability works or add much needed QOL. It's good to start looking into these at this point in the checklist.
+> **Note:** Some abilities have augment mods that can greatly change how the ability works or add much needed QoL. It's good to start looking into these at this point in the checklist.
 
 ---
 ## 5. What QoL Would Be Good?
 
 Quality of Life (QoL) mods improve how smoothly a build functions instead of focusing on defenses or damage. Common examples include mods for energy management, casting speed, parkour velocity, and knockdown resistance. Most builds have room for 1-2 QoL mods and they're often worth the slots for the added comfort.
 
+---
 ## Putting It All Together
 
 With the checklist covered and some ideas in your head about your build, here's how I'd start modding:
 
 1. Aura mod - pick based on polarities, what you have, or what best fits your build goals
 2. Build defining features - augments, subsumes or anything that's needed for your desired playstyle
-3. Defensive layers - as mentioned, a minimum of 1-2
+3. Defensive layers - as mentioned, at least 2-3 layers
 4. Stat mods - Focus on stats to boost your core abilities
 5. QoL mods - Slot em in based on need and comfort. Want more comfort? Add more QoL mods
 
@@ -193,7 +203,7 @@ Tanking with Overguard via the Icy Avalanche augment and pairing this with stand
 
 Its the same as the basic build, but investing more in Range and Strength for Avalanche and Breach Surge. Higher values will give more coverage and armor strip enemies fully.
 
-**5. What QOL Would Be Good?**
+**5. What QoL Would Be Good?**
 
 Mod slots are much more limited in this build. I've offloaded casting speed and energy management to Archon Shards to free up mod slots. *What isn't shown here is Synth Deconstruct on my companions to synergize with the 2 Violet Archon Shards (Equilibrium Shards)*
 

@@ -2,7 +2,7 @@
 template: home.html
 ---
 
-Hi, welcome to my Warframe guide hub! I'm Charithw, an LR5 that's been playing since around 2013.
+Hi, welcome to my Warframe guide hub! I'm Charithw, an LR6 that's been playing since around 2013.
 
 I really like helping out other Tenno and recently decided that it'd be cool to compile a series of guides that cover my lessons, experience, and tips/tricks that I picked up along the way! This isn't meant to be an exhaustive wiki of everything in Warframe, and I'm really aiming to just touch on things I've been asked about in the past and personal guides/tools/tricks that I use.
 
