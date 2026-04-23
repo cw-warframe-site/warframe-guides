@@ -1,4 +1,5 @@
 site_name: Charithw's WF Guide Hub
+site_url: https://cw-warframe-guides.github.io/
 theme:
   name: material
   custom_dir: overrides
@@ -34,6 +35,8 @@ plugins:
 markdown_extensions:
   - md_in_html
   - attr_list
+  - toc:
+      toc_depth: 3
   - pymdownx.snippets:
       base_path: docs/data
 

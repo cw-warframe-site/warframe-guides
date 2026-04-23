@@ -23,14 +23,17 @@ K-Drives are Warframe's version of hoverboards. You can do tricks, race, or simp
 ## My Credentials
 I'm just built better.
 
-<div class="guide-image-pair">
-  <figure>
-    <img src="../../images/kdrive/cred1.webp" alt="Credential 1">
-  </figure>
-  <figure>
-    <img src="../../images/kdrive/cred2.webp" alt="Credential 2">
-  </figure>
-</div>
+<figure>
+  <div class="guide-image-pair">
+    <figure style="flex: 0 0 51%">
+      <img src="../../images/kdrive/cred1.webp" alt="Credential 1">
+    </figure>
+    <figure>
+      <img src="../../images/kdrive/cred2.webp" alt="Credential 2">
+    </figure>
+  </div>
+  <figcaption>Me and my K-drive brother, JoacoRaptor, dominating the leaderboards</figcaption>
+</figure>
 
 ---
 ## Building your K-Drives
