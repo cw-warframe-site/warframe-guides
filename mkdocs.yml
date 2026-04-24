@@ -7,6 +7,8 @@ theme:
     scheme: slate
     primary: custom
     accent: custom
+  logo: images/Logo.svg
+  favicon: images/favicon.png
   font:
     text: Lato
     code: Roboto Mono

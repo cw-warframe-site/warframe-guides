@@ -156,6 +156,11 @@ body {
   }
 }
 
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 32px !important;
+}
+
 /* Prevent Material JS from fading out the site name on scroll */
 .md-header__topic:first-child {
   opacity: 1 !important;
@@ -1295,6 +1300,15 @@ img.floored {
   transition: opacity 0.15s, color 0.15s;
   white-space: nowrap;
   line-height: inherit;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.md-header-nav__dropdown-trigger::after {
+  content: '▾';
+  font-size: 0.7rem;
+  opacity: 0.8;
 }
 
 .md-header-nav__dropdown-trigger:hover,
