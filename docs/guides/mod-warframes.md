@@ -201,7 +201,7 @@ Tanking with Overguard via the Icy Avalanche augment and pairing this with stand
 
 **4. What Stats Should I Mod?**
 
-Its the same as the basic build, but investing more in Range and Strength for Avalanche and Breach Surge. Higher values will give more coverage and armor strip enemies fully.
+It's the same as the basic build, but investing more in Range and Strength for Avalanche and Breach Surge. Higher values will give more coverage and armor strip enemies fully.
 
 **5. What QoL Would Be Good?**
 

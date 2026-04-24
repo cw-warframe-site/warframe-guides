@@ -206,7 +206,7 @@ Djinn's blueprint is available in the Bio Labs of your clan's Dojo.
 
 **Opinion:**
 
-Djinn has been outpaced by other companion options, and the two phase companion rework in 2023 and 2024 only served to widen this gap. Djinn did not recieve any high impact changes and the addition of bond mods also replaced its previously unique enhanced revival mechanic. Worth building and leveling for the 9,000 mastery points but would avoid use outside of that.
+Djinn has been outpaced by other companion options, and the two phase companion rework in 2023 and 2024 only served to widen this gap. Djinn did not receive any high impact changes and the addition of bond mods also replaced its previously unique enhanced revival mechanic. Worth building and leveling for the 9,000 mastery points but would avoid use outside of that.
 
 </div>
 <figure class="guide-text-image__img" style="flex: 0 0 25%;" data-sentinel="Djinn"></figure>
@@ -260,7 +260,7 @@ Oxylus's blueprint is available from The Business in Fortuna for 20,000 standing
 
 **Opinion:**
 
-Oxylus is niche Sentinel that is very useful for open world activities. I primarily use the Oxylus for its fishing utility since free dye and hotspot marking are huge quality of life effects. With Scan Matter, I'll also pick up a few resources as I move around the bodies of water to fish.
+Oxylus is a niche Sentinel that is very useful for open world activities. I primarily use the Oxylus for its fishing utility since free dye and hotspot marking are huge quality of life effects. With Scan Matter, I'll also pick up a few resources as I move around the bodies of water to fish.
 
 </div>
 <figure class="guide-text-image__img" style="flex: 0 0 25%;" data-sentinel="Oxylus"></figure>
@@ -278,10 +278,7 @@ Nautilus is a Railjack-focused support Sentinel equipped with the Verglas, a hig
 1. **Auto Omni** - repairs hull breaches and fires in your Railjack on a 20 second cooldown
 2. **Cordon** - pulls enemies within 30m and cluster them on a 15 second cooldown
 
-
-Nautilus is another incredibly powerful sentinel. Cordon is an incredibly powerful grouping tool. While a 15 second cooldown seems bad at first, when paired with Manifold Bond, you can rapidly reduce the cooldown to allow Nautilus to chain Cordon pulls back-to-back. Additionally Verglas is one of the strongest damaging sentinel weapons and can spit out damage cap numbers with the right build. This sentinel is a must grab.
-
-**Obtaining**
+**Obtaining:**
 
 Nautilus is available in two variants, each obtained from different sources:
 
@@ -290,7 +287,7 @@ Nautilus is available in two variants, each obtained from different sources:
 | Normal | Neptune Proxima Defense (rot. B and C) or Point of Interest markers |
 | Prime | Void Relics (vaulting summer 2026) |
 
-> **Note:** This is currently the only regular sentinel with tradeable blueprints. However, if you're going to buy it, just get the fully built version from the Market. It costs 75 platinum and includes an Orokin Reactor and Orokin Catalyst for the weapon (40p value). Buying the set of Nautilus blueprint from warframe.market or   trade chat will cost around 70p.
+> **Note:** This is currently the only regular sentinel with tradeable blueprints. However, if you're going to buy it, just get the fully built version from the Market. It costs 75 platinum and includes an Orokin Reactor and Orokin Catalyst for the weapon (40p value). Buying the set of Nautilus blueprint from warframe.market or trade chat will cost around 70p.
 
 **Opinion:**
 
@@ -319,7 +316,7 @@ The Verglas and Verglas Prime are some of the highest damage Sentinel weapons cu
 ### Manifold Bond Primers
 **Burst Laser Prime & Prime Laser Rifle**
 
-Manifold bond is a mod that allows Sentinel damaging abilities to apply statuses based on all damage types on the Sentinel's weapon. With the current mods in the game, you can comfortably reach 7 unique statuses on most Sentinel weapons: Impact, Puncture, Slash, Radiation, Magnetic, Secondary element, & primary element of your choice. This synergizes very nicely with Condition Overload and GunCO effects which scale damage based on the number of unique statuses on a target. 
+Manifold Bond is a mod that allows Sentinel damaging abilities to apply statuses based on all damage types on the Sentinel's weapon. With the current mods in the game, you can comfortably reach 7 unique statuses on most Sentinel weapons: Impact, Puncture, Slash, Radiation, Magnetic, Secondary element, & primary element of your choice. This synergizes very nicely with Condition Overload and GunCO effects which scale damage based on the number of unique statuses on a target. 
 
 Burst Laser Prime & Prime Laser Rifle are notable here because on top of being able to reach 7 unique status effects, they also have enough base crit chance to reach the 50% crit chance threshold for Tenacious Bond. 
 

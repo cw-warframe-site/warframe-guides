@@ -26,7 +26,7 @@ Focus is an Operator progression system unlocked after completing The Second Dre
 ---
 ## The Five Focus Schools
 
-At the end of The Second Dream, you'll be asked to choose one of the five Tenno Schools. Don't worry about picking the "right" school. You can swap schools freely between missions and are encouraged to invest in multiple schools over time. Here's a brief summary of each schools' benefits:
+At the end of The Second Dream, you'll be asked to choose one of the five Tenno Schools. Don't worry about picking the "right" school. You can swap schools freely between missions and are encouraged to invest in multiple schools over time. Here's a brief summary of each school's benefits:
 
 - **Madurai (School of the Fighters)** - focuses on damage buffs
 - **Vazarin (School of the Protectors)** - focuses on healing and defensive buffs
@@ -54,9 +54,9 @@ excess affinity into Focus. There are four tiers (Regular, Greater, Eidolon, and
 
 The following are commonly recommended methods for farming Focus, but they are by no means the only options. If you find a method you enjoy more, go for it.
 
-**Elite Sanctuary Onslaught (ESO)** is a popular Focus farm. Enemy density is high, levels are decent, and each new Zone gives an affinity-to-Focus conversion buff that scales up to 16x. Keep in mind you will need lenses for each school you want to invest in, and higher tier lenses can easily half your farm times.
+**Elite Sanctuary Onslaught (ESO)** is a popular Focus farm. Enemy density is high, levels are decent, and each new Zone gives an affinity-to-Focus conversion buff that scales up to 16x. Keep in mind you will need lenses for each school you want to invest in, and higher tier lenses can easily halve your farm times.
 
-**Duviri Circuit and Zariman Cascade** both have decent Thrax spawn rates, making them a solid options. Set your active school to the one you're farming for before you start. Lenses are not requires for this farm which can be a plus.
+**Duviri Circuit and Zariman Cascade** both have decent Thrax spawn rates, making them a solid option. Set your active school to the one you're farming for before you start. Lenses aren't required for this farm which can be a plus.
 
 **Eidolon Hunts** are worth mentioning since shard conversion bypasses the daily Focus cap. However, this method is limited to only working at nighttime on the Plains of Eidolon (Earth). Based on which Eidolons you hunt, you'll get shards worth the following amount of Focus:
 

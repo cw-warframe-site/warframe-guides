@@ -19,7 +19,7 @@ template: guide.html
 
 ## Overview 
 
-Helminth is a being that resides in the infirmary of the Orbiter and is responsible for the ship's biological functions, repairs, and Warframe maintenance. While the Helminth technically encompasses the whole room and its infestation, it does have a large mouth in the back of the infirmary that functions as the "main body"
+Helminth is a being that resides in the infirmary of the Orbiter and is responsible for the ship's biological functions, repairs, and Warframe maintenance. While the Helminth technically encompasses the whole room and its infestation, it does have a large mouth in the back of the infirmary that functions as the "main body".
 
 The helminth has three major features:
 
@@ -44,7 +44,7 @@ At first, the infirmary will be locked. To temporarily gain access, you'll need 
 </figure>
 </div>
 
-### Fully Access
+### Full Access
 To permanently unlock the Helminth and the infirmary, you'll need to purchase and craft the Helminth Segment from Son in the Necralisk. It requires 15,000 standing, Rank 3 (Associate) with the Entrati Family, and Mastery Rank 8. Alternatively, you can purchase it as part of the Helminth Segments Bundle for 300p on the market. Once crafted, install the segment by sitting on the infirmary infested chair. At this point you will get to name your Helminth.
 
 ---
@@ -102,11 +102,11 @@ These resource costs can add up quite a lot in the mid game, so I've listed a fe
 
 Non-Prime Warframes can be fed to Helminth which will digest the frame over 23 hours and permanently learn that frame's subsume ability. These abilities can then be injected into other Warframes, replacing one of their existing abilties. This can make up for a frame's weaknesses, add fun effects, or just add a lot of extra damage.
 
-To infuse an ability onto your Warframe, simply select the subsume, choose which ability to replace, and choose which configs should be affectedd. Each config page can only have 1 subsumed ability, but you can use multiple subsumes across different config slots to allow for build variety.
+To infuse an ability onto your Warframe, simply select the subsume, choose which ability to replace, and choose which configs should be affected. Each config page can only have 1 subsumed ability, but you can use multiple subsumes across different config slots to allow for build variety.
 
 > **Note:** You cannot have a subsumed ability replace different abilities across config slots. For example, I cannot have the Roar subsume replace Nidus's 4th ability in Config A and his 3rd ability in Config B. 
 
-Additionally, Helminth will grow a flower for each Warframe consumed. The flower will inherit it's colors from your Warframe's fashion at the time it was subsumed. Over time you will end up with a flower graveyard documenting the frames you've fed to the flesh wall.
+Additionally, Helminth will grow a flower for each Warframe consumed. The flower will inherit its colors from your Warframe's fashion at the time it was subsumed. Over time you will end up with a flower graveyard documenting the frames you've fed to the flesh wall.
 
 ![Flower](../images/helminth/graveyard.webp){ .center .bordered .floored width=70% }
 
@@ -146,7 +146,7 @@ After 10 invigorations, you'll gain the ability to apply your next invigoration 
 ---
 ## Archon Shard Management
 
-The third feature of the Helminth system is Archon Shard management. Archon Shards are stat shards that can be embedded into Warframes to grant passive bonuses. Shards are considered semi-consumbale since they cannot be shared but can be removed (for a cost) and reused. Each Warframe can hold up to 5 Archon Shards. 
+The third feature of the Helminth system is Archon Shard management. Archon Shards are stat shards that can be embedded into Warframes to grant passive bonuses. Shards are considered semi-consumable since they cannot be shared but can be removed (for a cost) and reused. Each Warframe can hold up to 5 Archon Shards. 
 
 To access this system you'll need the Helminth Archon Shard Segment whose blueprint is given after completing the Veilbreaker.
 
@@ -193,5 +193,5 @@ The following methods can also give Archon Shards but share a pool of 5 charges 
     - Rewards 0-5 primary regular or Tauforged shards based on the highest challenge score and drop rates. Matching challenge options = more points = more rewards
 - **Temporal Archimedea and Elite Temporal Archimedea (TA & ETA)**
     - Requires Rank 5 Hex
-    - Costs 2 charges to unlock, and can be repeatedly over to improve scores and gain missed rewards
+    - Costs 2 charges to unlock, and can be run repeatedly to improve scores and gain missed rewards
     - Rewards 0-5 primary or secondary regular or Tauforged shards based on the highest challenge score and drop rates. Matching challenge options = more points = more rewards

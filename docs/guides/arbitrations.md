@@ -17,16 +17,16 @@ template: guide.html
 
 Arbitrations are special endless mode missions that will appear in the alerts tab of your navigation after completing the Eris Junction on Pluto. They rotate every hour and have several key differences from regular missions. Firstly, players die instantly. Revival will require other players to deliver 5 Resurgence Tokens to the fallen Tenno. Arbitration shield drones will also spawn and make all enemies near them immune to abilities. These drones can drop Vitus Essence on death, making them a priority target.
 
-> **Note**: You do not need to be allied with the Arbiters of Hexis to access these missions or their rewards.
+> **Note:** You do not need to be allied with the Arbiters of Hexis to access these missions or their rewards.
 
 ---
 ## Rewards
 
-Completing rounds in your Arbitration will grant you one of several potential rewards including Vitus Essence, Endo, and Arbitation arcanes. Vitus Essence is the primary currency here and can be spent at the Arbitrations respresentative a relay's Hexis Enclave on rewards including:
+Completing rounds in your Arbitration will grant you one of several potential rewards including Vitus Essence, Endo, and Arbitration arcanes. Vitus Essence is the primary currency here and can be spent at the Arbitrations representative in a relay's Hexis Enclave on rewards including:
 
 - Galvanized mods
 - Kuva, **lots** of Kuva
-- Specific mods and auras such as Combat Discipline and Adapaton
+- Specific mods and auras such as Combat Discipline and Adaptation
 - Grendel missions locators
 - Archgun Rivens
 

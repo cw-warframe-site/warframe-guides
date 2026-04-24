@@ -48,7 +48,7 @@ While Armor is not displayed on your HUD, armored enemies can be identified by t
 
 **Overguard**
 
-Overguard is a special defensive stat that grants immunity to statuses and crowd control. It does not benefit from **any** form of damage reduction. Typically you will see it on enemy Eximi units than on Warframes, but there are some limited options for players to generate their own Overguard.
+Overguard is a special defensive stat that grants immunity to statuses and crowd control. It does not benefit from **any** form of damage reduction. Typically you will see it more often on enemy Eximi units than on Warframes, but there are some limited options for players to generate their own Overguard.
 
 &nbsp;
 

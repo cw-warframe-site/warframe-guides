@@ -44,7 +44,7 @@ On a hypothetical weapon with 140 base damage this gives us:
 
 `140 x (1 + 165%) x (1 + 90%) = 704.9 damage (371 base damage + 333.9 Heat damage)`
 
-As a rule of thumb, the more good multiplicative stat groups you can invest in, the better. Stacking multiple additive mods will lead to diminshed returns, which we'll discuss in a later section. This is generally why a well rounded build will outperform one that stacks a single stat heavily.
+As a rule of thumb, the more good multiplicative stat groups you can invest in, the better. Stacking multiple additive mods will lead to diminished returns, which we'll discuss in a later section. This is generally why a well rounded build will outperform one that stacks a single stat heavily.
 
 ---
 ## Raw Value vs Relative Change
@@ -104,7 +104,7 @@ In Warframe, crit chance can go over 100% and, rather than being wasted, anythin
 
 > **Note:** The chart above shows all **visible** crit tiers in the game. Crit tiers can go higher than 6 but will be represented in the exact same way (red with '!!!')
 
-The damage multipler for a standard crit hit can be calculated with:
+The damage multiplier for a standard crit hit can be calculated with:
 
 `Crit Tier Multiplier = 1 + Crit Tier x (Total Crit Damage Multiplier − 1)`
 
@@ -112,7 +112,7 @@ For weakpoint crit hits, the formula is:
 
 `Weakpoint Crit Multiplier = Weakpoint Multiplier x (1 + Crit Tier x (2 x Total Crit Damage Multiplier - 1))`
 
-Do note, that while higher crit tiers look nice, there are diminishing returns to heavily investing in crit to push higher crit tiers. As we mentioned early all stats have diminishing returns when you invest more and more into them and crit chance is no exception. The table below shows this concept in action with a hypothetical weapon modded to have a 4.4x crit damage multiplier.
+Do note, that while higher crit tiers look nice, there are diminishing returns to heavily investing in crit to push higher crit tiers. As we mentioned earlier all stats have diminishing returns when you invest more and more into them and crit chance is no exception. The table below shows this concept in action with a hypothetical weapon modded to have a 4.4x crit damage multiplier.
 
 | Crit Tier | Crit Damage Multiplier | Percent Increase |
 |-----------|----------------------|------------------|
@@ -128,7 +128,7 @@ Do note, that while higher crit tiers look nice, there are diminishing returns t
 
 As mentioned in the Damage Types & Status Effects page, when a weapon triggers a status, each damage type's chance is equal to its percentage of the total damage. This is known as status weighting.
 
-For example, imagine a weapon has 25 impact, 50 puncture, and 75 slash for a totla of 150 base damage. 
+For example, imagine a weapon has 25 impact, 50 puncture, and 75 slash for a total of 150 base damage. 
 
 | Damage Type | Damage | Percent of Total Damage |
 |-------------|--------|---------------|
@@ -165,7 +165,7 @@ This is what players mean when they say that a mod or effect 'double dips' or 't
 ---
 ## Quadratic Scaling
 
-Quadratic scaling is the concept where certain damaging effects can scale based on both the number of fnemies hit and the number of enemies nearby. This can cause damage instances to grow exponentially instead of linearly.
+Quadratic scaling is the concept where certain damaging effects can scale based on both the number of enemies hit and the number of enemies nearby. This can cause damage instances to grow exponentially instead of linearly.
 
 A great example for this is Gas procs. Gas creates a poisonous cloud around the target that will damage nearby enemies. In tightly clustered groups of enemies this creates a compounding effect.
 
@@ -193,7 +193,7 @@ The following section covers two edge cases in Warframe's elemental combining sy
 
 HCET stands for Heat, Cold, Electricity, Toxin. As mentioned on the [Damage Types & Status Effects](mod-damage.md) page, innate elements and progenitors occupy an imaginary slot at the end of your mod order. In reality, these can be thought of as **four** invisible slots 9-12 which are mapped to Heat (9), Cold (10), Electricity (11), and Toxin (12). This nuance becomes important when you're considering weapons that have both a progenitor element and an innate element. 
 
-As an example, the Tenet Envoy has an innate Cold AOE. If the progenitor element is Toxin, then Cold occupies slot 10 and Toxin occupies slot 12, giving you Viral by defaultt. However, if a Heat mod is added, it will combine with the innate Cold first since Cold (slot 10) comes before Toxin (slot 12), and you'll get Blast and Toxin on your weapon instead of Viral + Heat like you might expect.
+As an example, the Tenet Envoy has an innate Cold AOE. If the progenitor element is Toxin, then Cold occupies slot 10 and Toxin occupies slot 12, giving you Viral by default. However, if a Heat mod is added, it will combine with the innate Cold first since Cold (slot 10) comes before Toxin (slot 12), and you'll get Blast and Toxin on your weapon instead of Viral + Heat like you might expect.
 
 </div>
 <figure class="guide-text-image__img" style="flex: 0 0 40%;">

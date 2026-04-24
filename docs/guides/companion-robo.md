@@ -68,7 +68,7 @@ different pair of IPS (impact + puncture + slash) damage types:
 
 ---
 ## MOAs
-MOAs are Corpus built robotics that typically fight the Tenno. However, due to their widespread use, MOAs have been developed for general use. In Fortuna, Legs sells and builds MOAs for Tenno use.
+MOAs are Corpus built Robotics that typically fight the Tenno. However, due to their widespread use, MOAs have been developed for general use. In Fortuna, Legs sells and builds MOAs for Tenno use.
 
 ### Parts
 Each MOA is composed of four parts:
@@ -95,12 +95,12 @@ There are 8 unique MOA precepts that you can earn by crafting MOAs with each of 
 - **Shockwave Actuators** - mid range AOE knockdown
 
 **Oloro Model**
--  **Tractor Beam** - gives the player increased aim gliding and lower gravity buffs
+-  **Tractor Beam** - gives the player increased aim gliding and reduced gravity
 - **Security Override** - automatically hacks nearby consoles 
 
 **Nychus Model**
-- Blast Shield - fully regenerates shields, then leaps to a nearby enemy and knocks down enemies nearby
-- Hard Engage - lets your MOA melee attack enemies in close range.
+- **Blast Shield** - fully regenerates shields, then leaps to a nearby enemy and knocks down enemies nearby
+- **Hard Engage** - lets your MOA melee attack enemies in close range.
 
 ### Weapons
 MOAs don't have specialized weapons and instead use Sentinel weapons. Please refer to the [Companions: Sentinels](companion-sent.md) page to learn more about weapon options.

@@ -19,7 +19,7 @@ template: guide.html
 
 ## Overview
 
-Beast companions are animal companions that roam around the battlefield, providing support and assisting in combat. When a beast companion's health reaches zero, it will fall down and slowly recover. Revival can be sped up through mods or by manually reviving it like you would for a downed ally. Beasts also have access to unique and powerful beast-exclusive mods which are useful effects.
+Beast companions are animal companions that roam around the battlefield, providing support and assisting in combat. When a beast companion's health reaches zero, it will fall down and slowly recover. Revival can be sped up through mods or by manually reviving it like you would for a downed ally. Beasts also have access to unique and powerful beast-exclusive mods.
 
 ---
 ## Breeding Basics
@@ -44,7 +44,7 @@ To breed a companion, open the Incubator, and start an incubation. You can then 
 
 ---
 ## Kubrows
-Kubrows are your first beast companions, which you get access to with the Howl of the Kubrow quest.
+Kubrows are your first beast companions, which are unlocked through the Howl of the Kubrow quest.
 
 ### Getting a Kubrow
 
@@ -93,7 +93,7 @@ Kavats are the second type of beast companion. To get a Kavat, you need to first
 
 ### Getting a Kavat
 To incubate a Kavat, you'll need 10 Kavat Genetic Codes and an Incubator Power Core. 
-Kavat Genetic Code can be farmed by scanning Feral Kavats in Deimos (except the Cambion Drift) or bought on the Market for 5 platinum each. Power Cores, as mentioned, above can be bought on the Market for credits (blueprint) or platinum (fully built).
+Kavat Genetic Code can be farmed by scanning Feral Kavats in Deimos (except the Cambion Drift) or bought on the Market for 5 platinum each. Power Cores, as mentioned above can be bought on the Market for credits (blueprint) or platinum (fully built).
 
 A few tips for farming Genetic Codes:
 
@@ -125,11 +125,11 @@ Smeeta is the premier affinity and focus farming Kavat. Every 27 seconds, Charm 
 
 The Vasca has a unique acquisition method. Take any Kavat to the Plains of Eidolon at night and have your Kavat be attacked and infected by a wild Vasca Kavat. Once infected, create an imprint of the Kavat to cure it and gain one Vasca imprint. Repeat this, and you can use your two Vasca imprints to incubate a Vasca.
 
-The Vasca is your vampire Kavat. Draining Bite heals your Vasca, and Tranfusion lets it revive the player on a 2 minute cooldown. 
+The Vasca is your vampire Kavat. Draining Bite heals your Vasca, and Transfusion lets it revive the player on a 2 minute cooldown. 
 
 ---
 ## Predasites
-Predasites are infested beasts companions, similar to kubrows, that can be found roaming the Cambion Drift.
+Predasites are infested beast companions, similar to kubrows, that can be found roaming the Cambion Drift.
 
 ### Getting a Predasite
 To get a Predasite you'll need to capture a weakened Predasite from the Cambion Drift and then ask Son to revive it. Wild Predasites that are attacked by the Infested will enter a weakened state, where they are capturable.
@@ -223,6 +223,6 @@ The other rarer subspecies, found primarily during Fass. Its precepts focus on s
 ---
 ## Helminth Chargers
 
-The Helminth Charger is an Infested Kubrow created by combining the Helminth strain with a Kubrow egg. To obtain one, you'll need to get infected with the Helminth cyst and let it fully grow (7 days). Then begin a standard Kubrow incubation and when asked to put imprints, select the option to drain the cyst over the egg.  
+The Helminth Charger is an Infested Kubrow created by combining the Helminth strain with a Kubrow egg. To obtain one, you'll need to get infected with the Helminth cyst and let it fully grow (7 days). Then begin a standard Kubrow incubation and when asked to put imprints, select the option to drain the cyst over the egg instead.  
 
 It has two precepts which focus on pulling enemies, knocking them over, and gaining temporary buffs. 

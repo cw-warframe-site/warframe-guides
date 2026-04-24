@@ -20,7 +20,7 @@ template: guide.html
 ---
 ## Overview
 
-Platinum is Warframe's main premium currency. It's used primarily for purchasing Warframe and weapon slots, cosmetics, and consumables like forma & orokin reactors/catalysts from in-game market. While platinum can be bought directly, it can also be earned for 'free' through trading with other players.
+Platinum is Warframe's main premium currency. It's used primarily for purchasing Warframe and weapon slots, cosmetics, and consumables like forma & orokin reactors/catalysts from the in-game market. While platinum can be bought directly, it can also be earned for 'free' through trading with other players.
 
 This guide covers several reliable ways to earn platinum early on, before reaching the New War and Steel Path. This is not an exhaustive guide, but it focuses on methods that are accessible and practical for newer players.
 
@@ -33,8 +33,6 @@ Selling prime parts is one of the most accessible ways for new players to earn p
 
 > **Note:** Prime parts and blueprints that you have crafted in the Foundry are not tradeable. Only the raw drops from relics can be sold.
 
-You can sell these parts as either individual components, or as full sets. *Note: Prime parts and blueprints that you have crafted in the foundry are * **NOT** *tradeable*
-
 Parts can be sold individually or as complete sets. As a rough baseline, non-vaulted parts tend to fall into these price ranges:
 
 - Common Drops = 1-5 p
@@ -43,7 +41,7 @@ Parts can be sold individually or as complete sets. As a rough baseline, non-vau
 
 Keep in mind the values above are estimates. Prices vary depending on the relic era and how recently the prime was released. Older non-vaulted primes are generally cheaper than newly released ones.
 
-Selling full prime sets will take more effort since you'll need to collect every piece, but it will typically earns you a bit more than selling parts individually. Sets also reduce the number of trades you need to make, which matters early on when your daily trade limit is low.
+Selling full prime sets will take more effort since you'll need to collect every piece, but it will typically earn you a bit more than selling parts individually. Sets also reduce the number of trades you need to make, which matters early on when your daily trade limit is low.
 
 ![Yareli Prime WFM](../images/plat-farming/wfm-chart.webp){ .center .bordered .floored width=60% }
 

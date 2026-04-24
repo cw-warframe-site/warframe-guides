@@ -60,7 +60,7 @@ Relics can additionally be refined using Void Traces to increase the chance for 
 ---
 ## Cracking Relics Efficiently
 
-Always try to crack relics in public lobbies or 4 man groups. Since you can choose your reward from anyone's cracked relic, more players means more options to pick from. For uncommon and rare parts, the go-to method is a **"Rad Share"**: a group where all four players run the same relic at Radiant refinement. This gives the best change for uncommon and rare rewards. To host one, post in recruit chat using this format:
+Always try to crack relics in public lobbies or 4 man groups. Since you can choose your reward from anyone's cracked relic, more players means more options to pick from. For uncommon and rare parts, the go-to method is a **"Rad Share"**: a group where all four players run the same relic at Radiant refinement. This gives the best chance for uncommon and rare rewards. To host one, post in recruit chat using this format:
 
 `H [Relic Name] Rad X/4` for example `H [Lith A3 Relic] Rad 2/4`
 

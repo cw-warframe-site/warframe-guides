@@ -91,7 +91,7 @@ The Plexus is your personal modable console for Railjack and has 3 sections: Int
 You have two options: 
 
 - **Onslaught Matrix** (damage) - Increases turret damage when Hull is 100%, reflects damage when shields are over 80%, and provides Battle mod efficiency
-- **Ironclad Matrix** (defense). Increases Hull, Armor, Shields and Shield Regen for your Railjack
+- **Ironclad Matrix** (defense) - Increases Hull, Armor, Shields and Shield Regen for your Railjack
 
 **Speed mods**
 
@@ -111,7 +111,7 @@ Remaining slots can go towards but it all depends on personal preference. Option
 
 - Turret mods (e.g. Crimson Fugue, Turret Velocity, Hyperstrike)
 - Ordinance mods (e.g. Ripload, Warhead, Ordnance Velocity)
-- Other mods utility mods
+- Other utility mods
 
 ### Battle
 
@@ -119,7 +119,7 @@ Battle mods provide combat abilities and each plexus can fit 3: a Defensive, an 
 
 **Defensive**
 
-Blackout Pulse is best pick here. It locks down Crew Ships and lets you set up easy Forward Artillery shots. 
+Blackout Pulse is the best pick here. It locks down Crew Ships and lets you set up easy Forward Artillery shots. 
 
 **Offensive**
 
@@ -127,7 +127,7 @@ All three options are strong. Pick what you find most fun! I personally run Part
 
 **Super**
 
-Seeker Volley is the best Railjack mod available. It releases a swarm of homing missiles that can easily take down multiple enemy ships at once. Phoenix Blaze and Void Hole have decent damage, but they're just no where close to Seeker Volley's damage output.
+Seeker Volley is the best Railjack mod available. It releases a swarm of homing missiles that can easily take down multiple enemy ships at once. Phoenix Blaze and Void Hole have decent damage, but they're just nowhere near Seeker Volley's damage output.
 
 ### Tactical
 
@@ -135,7 +135,7 @@ Tactical mods provide neat utility effects. None of these are mandatory but I re
 
 - **Form Up** - Brings everyone back to the Railjack
 - **Death Blossom** - Disables turret overheating
-- **Void Cloak** - Turn the Railjack invisibile
+- **Void Cloak** - Turn the Railjack invisible
 
 ---
 ## Intrinsics
@@ -178,7 +178,7 @@ My recommended crew setup is:
 - Gunner/Pilot (middle slot)
 - Gunner (right slot)
 
-When other players join, crew will get replaced by real players from right to left. Keeping the engineer in the left slot ensures they're the last to be replaced. The engineer will handle ship repairs and protect the ship, which makes it a very vaulable role.
+When other players join, crew will get replaced by real players from right to left. Keeping the engineer in the left slot ensures they're the last to be replaced. The engineer will handle ship repairs and protect the ship, which makes it a very valuable role.
 
 </div>
 <figure class="guide-text-image__img" style="flex: 0 0 40%;">
@@ -188,7 +188,7 @@ When other players join, crew will get replaced by real players from right to le
 
 **Crew Weapons**
 
-The best weapons for crew are AOE options. Crewmates have infinite ammo so its best to prioritize weapons with large AOEs. Good options include the Kuva Zarr, Kuva Ogris, Sporelacer, and Tenet Arca Plasmor.
+The best weapons for crew are AOE options. Crewmates have infinite ammo so it's best to prioritize weapons with large AOEs. Good options include the Kuva Zarr, Kuva Ogris, Sporelacer, and Tenet Arca Plasmor.
 
 Crew and on-call crew cannot benefit from arcanes, galvanized mods, conditional mods like Argon Scope, or Rivens. That means it's best to focus on maximizing crit, elementals, AOE, and fire rate. As an example, this is my Kuva Zarr build that I run on my on-call crew.
 

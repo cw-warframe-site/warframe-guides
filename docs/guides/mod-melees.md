@@ -9,6 +9,17 @@ template: guide.html
 
 - [Overview](#overview)
 - [The Checklist](#the-checklist)
+- [0. What Type of Weapon/Build Are You Using?](#0-what-type-of-weaponbuild-are-you-using)
+- [1. What's My Stance?](#1-whats-my-stance)
+- [2. Condition Overload or No?](#2-condition-overload-or-no)
+- [3. Do I Need Attack Speed?](#3-do-i-need-attack-speed)
+- [4. Is It a Combo Build?](#4-is-it-a-combo-build)
+- [5. Is It a Viable Crit Weapon?](#5-is-it-a-viable-crit-weapon)
+- [6. Is It a Viable Status Weapon?](#6-is-it-a-viable-status-weapon)
+- [7. What QoL Mods Should I Use?](#7-what-qol-mods-should-i-use)
+- [Example: Basic Nikana Prime Build](#example-basic-nikana-prime-build)
+- [Example: SP Nikana Prime Build](#example-sp-nikana-prime-build)
+- [Example: Xoris Thrown Detonation Build](#example-xoris-thrown-detonation-build)
 
 </div>
 

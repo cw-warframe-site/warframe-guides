@@ -19,8 +19,6 @@ Void Cascade is a high-intensity endless mission type that's exclusive to the Za
 
 Cascade missions are very popular due to their rewards, quick enemy scaling, and ramping difficulty which makes them a great place to stress test builds or chase a challenge. Most endless mission types can take anywhere from 2 to 8 hours to reach the enemy level cap of 9999, but Cascades allow you to face level cap enemies after 107 Exolizers (around 1 to 1.5 hours).
 
-> **Note:** INSERT COACH SCREENSHOT OF LVL CAP CASCADE
-
 > **Note:** When run on Steel Path and paired with an Omnia Void Fissure, Cascades lets you farm a variety of items, becoming an incredibly rewarding mission type.
 
 ---

@@ -16,7 +16,7 @@ template: guide.html
 
 Eidolons are towering spectral fragments of a giant, shattered Sentient that once attacked Cetus. Eidolons serve as mid-late game mini bosses on the Plains of Eidolon and **only** spawn at night on the Plains. 
 
-There are 3 Eidolons you can fight: the Teralyst, Gantulyst, and Hydrolyst. The Teralyst will naturally appear at night, but the others will require a successful capture of the smaller version and summoning at the shrine on Gara Toht Lake, which commemorates the ancient battle. Killing or capturing an Eidolon will reward you with Warframe Arcanes, Eidolon shards and numerous Sentient Cores
+There are 3 Eidolons you can fight: the Teralyst, Gantulyst, and Hydrolyst. The Teralyst will naturally appear at night, but the others will require a successful capture of the smaller version and summoning at the shrine on Gara Toht Lake, which commemorates the ancient battle. Killing or capturing an Eidolon will reward you with Warframe Arcanes, Eidolon shards, and numerous Sentient Cores
 
 ---
 ## Guide Resources

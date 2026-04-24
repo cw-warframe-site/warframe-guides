@@ -32,7 +32,7 @@ Once you've completed the Stolen Dreams quest, you'll gain access to Maroo and h
 Normally, only 1 Ayatan sculpture can spawn per mission (at roughly a 1/7 chance), but once a week you can talk to Maroo to receive a "treasure hunt" mission that has a guaranteed Ayatan sculpture.
 
 ### Dissolve Mods
-This is pretty self explanatory. In your mod bench, you can dissolve your high duplicate common/uncommon (bronze/silver) mods into endo. Rarity does impact the amount of endo received but do be careful when dissolving rare mods (gold) as those can sometimes be sold to other players for platinium. 
+This is pretty self explanatory. In your mod bench, you can dissolve your high duplicate common/uncommon (bronze/silver) mods into endo. Rarity does impact the amount of endo received but do be careful when dissolving rare mods (gold) as those can sometimes be sold to other players for platinum. 
 
 ### Deimos Bounties
 Deimos bounties have pretty solid endo rewards when you're still early on in the game. Higher tier bounties have better endo rewards, so queue publicly or with friends if needed. 

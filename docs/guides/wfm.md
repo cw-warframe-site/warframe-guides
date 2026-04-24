@@ -33,7 +33,7 @@ Navigating WFM as a buyer is a relatively easy four-step process.
 1. Search for the item you want
 2. Find a listing from an online or in-game seller
 3. Click the "📋Buy" button on the right side of their post and copy the message provided
-4. Paste the message into Warframe and send it. If on console DM the username provided with.
+4. Paste the message into Warframe and send it. If on console, DM the username provided
 
 > **Note:** If you're on console and cannot copy & paste the message, then directly message (*/w*) the seller.  
 > *Example: "/w Seller123 Hi, looking to buy X"*
@@ -50,22 +50,20 @@ As a seller, there are a few more steps involved
 5. Set your status appropriately
     - **Online in game** - You're in-game and ready to trade within ~15 minutes
     - **Online** - You’re not currently in-game but available to trade within ~1 hour and can respond through the site
-    - **Invisible** - You are not available to trade and obligations to respond
+    - **Invisible** - You aren't available to trade and have no obligation to respond
 
 > **Note:** For sellers, I recommend a "store-front" approach where you post listings and wait for buyers to come to you. If you need platinum **immediately**, search for the item you're selling and change the "Order Type" to "Buyers". Keep in mind buyer listings are typically lower than selling listings, so you're trading potential platinum for an instant sale. That said, if you price your listings reasonably, sales listings tend to close quickly. 
 
 ---
 ## Pricing Items
 
-Even if you don't use WFM for trading, it's still a great tool for pricing items before 
-heading to trade chat.
+Even if you don't use WFM for trading, it's still a great tool for pricing items before heading to trade chat.
 
 I recommend referencing two stats when pricing an item:
 1. The 90-day average price curve
 2. What current online sellers are listing it for
 
-Pricing within 5-10 platinum or 10% of those two numbers is generally a safe range. For faster 
-sales, pricing closer to the lowest active seller is better
+Pricing within 5-10 platinum or 10% of those two numbers is generally a safe range. For faster sales, pricing closer to the lowest active seller is better.
 
 ![wfm pricing](../images/wfm/wfm.webp){ .center .bordered .floored width=60% }
 
@@ -79,7 +77,7 @@ Getting suspended from WFM is rare if you use the platform in good faith. Action
 - Changing prices mid-trade
 - Editing the prices in the copy-paste message
 
-WFM is generally lenient on honest mistakes like not realizing you shouldn't change the copy-paste message, and most players will not escalate the situation if its addressed in chat. If you want to read the full list of rules, the TOS is linked below.
+WFM is generally lenient on honest mistakes like not realizing you shouldn't change the copy-paste message, and most players won't escalate the situation if they confront you and it's addressed in chat. If you want to read the full list of rules, the TOS is linked below.
 
 [Warframe.Market Terms of Service](https://warframe.market/tos)
 
@@ -103,5 +101,4 @@ My personal filters are:
 - `Riven` - filters Riven scams and god roll listings
 - `Hammer Shot` - avoids Nightmare mod scams listings
 
-These filters will occasionally hide legitimate posts where a player includes both a WTB and 
-WTS in the same message, but the tradeoff in reduced spam is worth it.
+These filters will occasionally hide legitimate posts where a player includes both a WTB and WTS in the same message, but the tradeoff in reduced spam is worth it.

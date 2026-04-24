@@ -61,7 +61,7 @@ Requiem mods are earned by cracking Requiem Relics, which drop from Kuva Siphon 
 ## Creating Your Adversary
 
 Each Lich or Sister has two customizable aspects: their elemental progenitor and their weapon. The elemental progenitor is determined by the Warframe you're using when you spawn the
-Adversary. It affects affects:
+Adversary. It affects:
 
 - The Adversary's abilities and resistances
 - The elemental bonus on their weapon
@@ -82,7 +82,7 @@ when you exhaust all options.
 ### Kuva Liches
 
 To spawn a Kuva Lich, jump into any Grineer mission above level 20. **Cassini, Saturn**
-is my recommendedation since it's a simple, quick mission. At some point the lights in the mission will flash yellow. When they do, you have a minute to kill 10 or more enemies to spawn a Kuva Larvling (potential Kuva Lich). Currently there are 21 Kuva weapons available from Liches so cycling to find the weapon you like may take a while.
+is my recommendation since it's a simple, quick mission. At some point the lights in the mission will flash yellow. When they do, you have a minute to kill 10 or more enemies to spawn a Kuva Larvling (potential Kuva Lich). Currently there are 21 Kuva weapons available from Liches so cycling to find the weapon you like may take a while.
 
 ### Sisters of Parvos
 
@@ -99,11 +99,9 @@ Every Lich and Sister has a 3 mod Requiem combination that'll expose their weakn
 
 Liches and Sisters start on Earth and Venus respectively, and controlled territory will be shown as a red or blue cloud surrounding nodes on the Star Chart. To begin hunting, select a node within controlled territory and choose the new mission option. These missions will spawn special elite units, Thralls (Lich) or Hounds (Sister) that you must take down. Using mercy finishers on these units reveals progress towards one of the three required Requiem mods. 
 
-As you clear controlled territory, your Lich or Sister will grow progressively angrier, increasing the change of them appearing in subsequent missions. When they do appear, down them and you'll get the change to stab (execute) them, testing whether the first mod in your Parazon matches their sequence. A correct guess lets you continue the fight and test the next mod. An incorrect guess causes the Adversary to level up, growing stronger and moving to another planet. 
+As you clear controlled territory, your Lich or Sister will grow progressively angrier, increasing the chance of them appearing in subsequent missions. When they do appear, down them and you'll get the chance to stab (execute) them, testing whether the first mod in your Parazon matches their sequence. A correct guess lets you continue the fight and test the next mod. An incorrect guess causes the Adversary to level up, growing stronger and moving to another planet. 
 
-
-
-> **Note**: Ideally, you do not want to stab without a plan since that increases the level and difficulty of the Adversary. If an adversary spawns before you're ready, down it 3 times without stabbing them and it will leave, preserving its high anger for subsequent missions on that planet. 
+> **Note:** Ideally, you do not want to stab without a plan since that increases the level and difficulty of the Adversary. If an adversary spawns before you're ready, down it 3 times without stabbing them and it will leave, preserving its high anger for subsequent missions on that planet. 
 
 For strategies on how to efficiently determine the correct sequence, please read the next section. 
 
@@ -146,25 +144,25 @@ After defeating your Adversary for the final time, you'll get the option to conv
 
 **Converting** lets the Adversary randomly appear in missions to assist you or be used as Railjack defensive crew. Converted Adversaries can also be traded/sold to other players, typically due to a high progenitor bonus, ephemera, or a funny name or appearance. 
 
-Regardless of your choice you will always recieve the Adversary's ephemera if they spawned with one. 
+Regardless of your choice you will always receive the Adversary's ephemera if they spawned with one. 
 
 ---
 ## Rewards
 
 **During the hunt** correctly guessing the Requiem sequence has a 25% chance to drop an Oull
 
-**Upon completing the Final Showdown**, you will recieve:
+**Upon completing the Final Showdown**, you will receive:
 
 - All the loot that had been stolen by your Adversary
 - The Adversary's ephemera, if one spawned
-- 25% chance for an Requiem Ultimatum
+- 25% chance for a Requiem Ultimatum
 - (**IF SISTER**) Corrupted Holokeys and Hound Blueprints based on the number of party members
 
-Additionally, if you vanquished the Adversary you will recieve their:
+Additionally, if you vanquished the Adversary you will receive their:
 
 - Kuva/Tenet weapon with its progenitor bonus
 -  (**IF SISTER**) Personal Hound
 
 Kuva and Tenet weapons rank up to 30 initially but max out at 40. Each Forma applied to the weapon unlocks 2 additional levels, so you'll need 5 Forma in total per weapon to get all the potential mastery.
 
-To change a weapon's progenitor bonus, see my guide on [Valence Fusion](#). Additionally, after completing the Hex Quest, Eleanor sells ELemental Vices that are consumables that allow you to permanently freely change the element on any fully ranked Adversary weapon.
+To change a weapon's progenitor bonus, see my guide on [Valence Fusion](#). Additionally, after completing the Hex Quest, Eleanor sells Elemental Vices that are consumables that allow you to permanently freely change the element on any fully ranked Adversary weapon.

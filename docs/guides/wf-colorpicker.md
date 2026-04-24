@@ -24,7 +24,7 @@ It supports three ways to input a color:
 - Using the built-in RGB wheel to dial in a specific color
 - Selecting a color directly from any in-game palette listed on the site
 
-The two most common use cases are identifying colors from someone elses's appearance screen in their arsenal and finding the closest match to a color from a palette you don't own.
+The two most common use cases are identifying colors from someone else's appearance screen in their arsenal and finding the closest match to a color from a palette you don't own.
 
 ---
 ## Situation 1: Unknown Colors

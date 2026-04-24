@@ -24,7 +24,7 @@ With so many mods, stats, and interactions, modding can feel overwhelming at fir
 
 Mods are upgrades that can be applied to your Warframes, weapons, companions, and more, to improve their stats and add new effects. Each mod has a rarity, polarity, rank, and drain cost (amount of capacity it costs to equip). Mods are your core source of power for your builds and how you mod can completely change your playstyles and damage. 
 
-Mod power scales significantly with rank. A rank 0 Serration gives +15% damage for 4 drain. A rank 4 Serration has has a drain of 8 but gives +75% damage. That's 5 times the damage boost for only double the drain! As such, when working with limited capacity, a few high ranked mods will usually outperform a full build of low ranked mods. 
+Mod power scales significantly with rank. A rank 0 Serration gives +15% damage for 4 drain. A rank 4 Serration has a drain of 8 but gives +75% damage. That's 5 times the damage boost for only double the drain! As such, when working with limited capacity, a few high ranked mods will usually outperform a full build of low ranked mods. 
 
 Ranking up mods requires Endo, which drops randomly from enemies and through other sources. Check out our [Endo Farming](endo-farming.md) guide for tips on targeted Endo farms. 
 
@@ -42,9 +42,9 @@ Capacity determines the number and rank of the mods that you can fit on a given 
 <div class="guide-text-image__text" markdown="1">
 **Polarities & Forma**
 
-Polarities are symbols on both mods and mod slots. Putting a mod into a slot with a matching polarity will turn the symbol green and either half the drain on the mod or double the capacity boost (for auras and stances). Mismatch the polarities and the symbol will turn red, increasing the mod's capacity by 25% and decreasing the capacity boost (for auras and stances).
+Polarities are symbols on both mods and mod slots. Putting a mod into a slot with a matching polarity will turn the symbol green and either halve the drain on the mod or double the capacity boost (for auras and stances). Mismatch the polarities and the symbol will turn red, increasing the mod's capacity by 25% and decreasing the capacity boost (for auras and stances).
 
-Forma is a consumable that changes or adds 1 polarity to an item. The item must be at max possible rank to use Forma on it and using Forma will reset the rank to 0 again. Forma blueprints are mainly earned through Void Relics, but they can also be obtained from alerts, invasions, and other sources. Additionally, you can just buy Forma from the Market for 20 plat. You can purchases bundle of 3 Forma for 35 plat (saves ~8 plat per forma) which is a significantly better deal.
+Forma is a consumable that changes or adds 1 polarity to an item. The item must be at max possible rank to use Forma on it and using Forma will reset the rank to 0 again. Forma blueprints are mainly earned through Void Relics, but they can also be obtained from alerts, invasions, and other sources. Additionally, you can just buy Forma from the Market for 20 plat. You can purchase bundles of 3 Forma for 35 plat (saves ~8 plat per forma) which is a significantly better deal.
 
 </div>
 <figure class="guide-text-image__img" style="flex: 0 0 25%;">
@@ -55,7 +55,7 @@ Forma is a consumable that changes or adds 1 polarity to an item. The item must 
 
 **Orokin Reactor & Catalyst**
 
-Orokin Reactors and Orokin Catalyst are consumables that permanently double an item's capacity. Reactors are used on Warframes, companions, and vehicles, and Catalysts are used on weapons. These are also sometimes called gold and blue potatoes respectively.
+Orokin Reactors and Orokin Catalysts are consumables that permanently double an item's capacity. Reactors are used on Warframes, companions, and vehicles, and Catalysts are used on weapons. These are also sometimes called gold and blue potatoes respectively.
 
 Both can be obtained through Nightwave credit purchases, alerts, invasions, and various mid to late game mission rewards. Additionally, both can be bought on the Market for 20 plat each.
 

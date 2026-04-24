@@ -59,7 +59,7 @@ Tricks cap out at 3,000 affinity, or 6,000 with the Primo Flair mod. A K-Drive n
 
 ### 2. K-Drive Races
 
-K-Drive races can be found scattered across the open worlds and are the superior method for leveling K-Drives. Races give K-Drive affinity per gate completed, with a bonus for the final gate. Longer races will give you larger chunks of affinity and their challenges can make them quite enjoyable. Shorter races smaller amounts of affinity but are more efficient. My personal recommendation is to focus on Orb Vallis races, which tend to be easier and to find the longest race of the day. Races also come with leaderboards, so challenge yourself and your friends to see who is the superior gamer!
+K-Drive races can be found scattered across the open worlds and are the superior method for leveling K-Drives. Races give K-Drive affinity per gate completed, with a bonus for the final gate. Longer races will give you larger chunks of affinity and their challenges can make them quite enjoyable. Shorter races give smaller amounts of affinity but are more efficient. My personal recommendation is to focus on Orb Vallis races, which tend to be easier and to find the longest race of the day. Races also come with leaderboards, so challenge yourself and your friends to see who is the superior gamer!
 
 ---
 ## K-Drive Maps & Charts

@@ -141,13 +141,13 @@ Here's the video guide I personally used. If you're a visual learner and want an
 
 **Step 2.** Get a strong AOE weapon like the Zarr or Ogris. I recommend the Kuva Zarr for its damage and large splash radius (see example build below).
 
-> **Note:** Rivens, galvanized mods, and conditional aracanes do not apply to crewmate weapons, so consider making a dedicated config for your crewmate.
+> **Note:** Rivens, galvanized mods, and conditional arcanes do not apply to crewmate weapons, so consider making a dedicated config for your crewmate.
 
 **Step 3.** Assign the crewmate as your on-call and equip the Kuva Zarr (or your chosen weapon) as their loadout. Then add the on-call crew summon to your gear wheel.
 
 ![on-call-gear](../images/affinity-farming/on-call-gear.webp){ .center .bordered .floored width=60% }
 
-**Step 4.** Collect party members as needed. If running solo, bring a strong back-up weapon. Crewmates only last 3 minutes before going on a 7 minute cooldown, so you will need to hold out for the remaining 2 minutes of the survival.
+**Step 4.** Collect party members as needed. If running solo, bring a strong backup weapon. Crewmates only last 3 minutes before going on a 7 minute cooldown, so you will need to hold out for the remaining 2 minutes of the survival.
 
 **Step 5.** Start the mission, hack the console, and stand by the door or gate based on your spawn location.
 

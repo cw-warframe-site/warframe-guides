@@ -27,7 +27,7 @@ The farming strategies below cover some of the major/popular methods and are ord
 <div class="guide-text-image" markdown="1">
 <div class="guide-text-image__text" markdown="1">
 
-Dark Sector missions are a special mission type found on most of the planets in the star chart. They're characterized by the special symbol, always having infested enemies, and giving bonuses to resource drop chance and affinity. For example on Mars, the node, Kadesh, is a dark sector mission.
+Dark Sector missions are a special mission type found on most of the planets in the star chart. They're characterized by a unique icon on the star chart, always having infested enemies, and giving bonuses to resource drop chance and affinity. For example on Mars, the node, Kadesh, is a dark sector mission.
 
 On clearing the mission you'll get an extra 12-20k credits depending on the mission and level. Several of these can be done quite quickly and can be a solid way to make a few early credits.
 

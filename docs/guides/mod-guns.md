@@ -123,7 +123,7 @@ At 14% status chance and 16.67 shots per second it's on the lower end for status
 
 **5. What QoL Mods Should I Use?**
 
-With one slot left, you have to consider what quality of life mod you'd want. My personal pick in this situation in Shred (+30% fire rate and +1.2m punch through). The Baza Prime has good single target damage, so with more punch through it should be able to hit multiple enemies in hordes.
+With one slot left, you have to consider what quality of life mod you'd want. My personal pick in this situation is Shred (+30% fire rate and +1.2m punch through). The Baza Prime has good single target damage, so with more punch through it should be able to hit multiple enemies in hordes.
 
 ![Baza Basic](../images/modding/gunchk-baza-basic.webp){ .center .bordered .floored width=80% }
 

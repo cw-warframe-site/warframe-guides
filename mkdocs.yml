@@ -19,7 +19,7 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Guide Index: guides/guide_index.md
+  - Guide Index: guide_index.md
 
 plugins:
   - search

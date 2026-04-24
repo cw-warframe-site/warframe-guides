@@ -6,7 +6,7 @@ template: guide.html
 
 Companions are combat and utility partners that tag along in your mission. Each companion is unique and can provide a variety of offensive, defensive, and utility buffs. 
 
-One of the most important features of companions is that they can equip the Vacuum (Robotics) or Fetch (Beasts) mods which increase loot pickup radius. This affects nbot only resource collection but also how easily you can grab energy orbs, health orbs, and ammo packs. The value here cannot be understated, and these mods are considered mandatory on companion builds. 
+One of the most important features of companions is that they can equip the Vacuum (Robotics) or Fetch (Beasts) mods which increase loot pickup radius. This affects not only resource collection but also how easily you can grab energy orbs, health orbs, and ammo packs. The value here cannot be overstated, and these mods are considered mandatory on companion builds. 
 
 In Warframe there are two broad types of companion:
 

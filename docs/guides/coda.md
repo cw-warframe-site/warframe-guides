@@ -18,9 +18,9 @@ template: guide.html
 
 ## Overview
 
-Technocyte Codas are the third addition to Warfarme's Adversary system and are the Techrot version of Kuva Liches and Sisters of Parvos. Once a summoned, your Coda boyband will being taking over Höllvania.  Unlike Liches and Sisters, Codas won't steal your resources and will instead leave yellow cysts on any Warframe until the hunt is completed.
+Technocyte Codas are the third addition to Warframe's Adversary system and are the Techrot version of Kuva Liches and Sisters of Parvos. Once summoned, your Coda boyband will begin taking over Höllvania.  Unlike Liches and Sisters, Codas won't steal your resources and will instead leave yellow cysts on any Warframe until the hunt is completed.
 
-Defeating your Coda give you the choice to convert or execute them. Both options give slightly different rewards but similarly to Liches and Sisters, executing them is the only way to obtain Coda Weapons, specialized Techrot variants of infested weapons. 
+Defeating your Coda gives you the choice to convert or execute them. Both options give slightly different rewards but similarly to Liches and Sisters, executing them is the only way to obtain Coda Weapons, specialized Techrot variants of infested weapons. 
 
 
 > **Note:** Once created, a Coda cannot be removed without completing the hunt. The whole process is simpler than previous adversaries, but this guide is still worth reading before getting started.
@@ -65,11 +65,11 @@ Unlike Liches or Sisters, Codas don't have any manipulation mechanisms, so feel 
 ---
 ## Fighting  Your Coda
 
-Technocyte Codas use a slightly different, and **significantly** easier fight system compared to Liches and Sisters. Once spawned, your Coda will infect Höllvania missions, shown by a green cloud around the Höllvania nodes. Each mission has a 25% chance to spawn your Coda, with each no-show increasing the chance by 25% and stab attempts resetting the spawn chance. 
+Technocyte Codas use a slightly different, and **significantly** easier fight system compared to Liches and Sisters. Once spawned, your Coda will infect Höllvania missions, shown by a green cloud around the Höllvania nodes. Each mission has a 25% chance to spawn your Coda, with each no-show increasing the chance by 25%. Stab attempts will reset the spawn chance back to 25%. 
 
-To expose the Coda's weakness you will need the figure out the single Antivirus mod that it is vulnerable to. Since there are only 8 Antivirus mods, you can test 3 per stab and determine the right mod in a maximum of 3 stabs. 
+To expose the Coda's weakness you will need the figure out the Antivirus mod that it's vulnerable to. Since there are only 8 Antivirus mods, you can test 3 per stab and determine the right mod in a maximum of 3 stabs. 
 
-After discovering your the correct Antivirus, replace your non-working Antivirus mods with Potency mods. These speed up the disinfection meter, and once disinfection reaches 100% your Coda moves to the final showdown stage.
+After discovering the correct Antivirus, replace your non-working Antivirus mods with Potency mods. These speed up the disinfection meter, and once disinfection reaches 100% your Coda moves to the final showdown stage.
 
 ---
 ## Final Showdown
@@ -81,7 +81,7 @@ Disinfecting your Coda will cause them to flee to the Earth Proxima region (Rail
 
 We do advise doing this in a public lobby or a full group even if you're a fully geared veteran. Each additional Technocyte Coda you have to face in the final challenge will give an additional Live Heartcell. 
 
-> **Note**: Only people with a Coda at the final showdown stage can join this mission. 
+> **Note:** Only people with a Coda at the final showdown stage can join this mission. 
 
 </div>
 <figure class="guide-text-image__img" style="flex: 0 0 30%;">
@@ -93,7 +93,7 @@ After defeating your Coda for the final time, you'll get the option to convert t
 
 **Vanquishing** is the common (and recommended) route since it's the only way to get the Coda's weapons
 
-**Converting** lets the Coda randomly appear in missions to assist you or be used as Railjack defensive crew. Converted Coda can also be traded/sold to other players, typically due to a high progenitor bonus, ephemera, or a funny name or appearance. 
+**Converting** lets the Coda randomly appear in missions to assist you or be used as Railjack defensive crew. Converted Coda can also be traded/sold to other players, typically due to an ephemera or a funny name or appearance. 
 
 ![Fate screen](../images/coda/fate.webp){ .center .bordered .floored width=60% }
 
@@ -103,7 +103,7 @@ After defeating your Coda for the final time, you'll get the option to convert t
 <div class="guide-text-image" markdown="1">
 <div class="guide-text-image__text" markdown="1">
 
-Technocyte Codas are very clear about what loot you will recieve on vanquishing or conversion. On the Coda profile page, the bottom left corner will display the loot given for both options. 
+Technocyte Codas are very clear about what loot you will receive on vanquishing or conversion. On the Coda profile page, the bottom left corner will display the loot given for both options. 
 
 The loot will consist of :
 

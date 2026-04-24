@@ -28,7 +28,7 @@ Faction syndicates are 6 rivaling factions in Warframe, each with their own uniq
 
 At Mastery Rank 3, you can access the Faction syndicates through the console to the left of the navigation terminal in your Orbiter. From there, you will be asked to pledge to one of the 6 factions. Each faction will provide a brief statement and a list of their relations with the other factions. 
 
-For example, Cephalon Suda is allied with the Arbiters of Hexis and enemies with New Loka. Gaining standing with Cephalon Suda will alwo earn you standing with the Arbiters of Hexis. However, it will also passively drain your standing with New Loka. A chart detailing all their relations can be found below.
+For example, Cephalon Suda is allied with the Arbiters of Hexis and enemies with New Loka. Gaining standing with Cephalon Suda will also earn you standing with the Arbiters of Hexis. However, it will also passively drain your standing with New Loka. A chart detailing all their relations can be found below.
 
 > **Note:** Once you pledge, you will passively gain a percentage of your affinity earned as standing for your active syndicate. 
 
@@ -75,16 +75,16 @@ At each syndicate rank you unlock more rewards. Some highlights for each rank in
 - **Rank 2** - Syndicate Void Relic packs and Archwing weapon components
 - **Rank 3** - Squad Restores (Large) blueprint and more Archwing weapon components
 - **Rank 4** - Weapon augment mods
-- **Rank 5** - Warframe augment mods, weapons, fashion accessories, captura scenes, and honoria
+- **Rank 5** - Warframe augment mods, weapons, fashion accessories, captura scenes, and Honoria
 
-Each Faction syndicate has its own unique rewards, so its beneficial to ally with multiple syndicates. The one exception to this is Warframe augment mods, which are each found in two of the 6 syndicates. If there is something you want from a syndicate you're not allied with, you can always trade for it with other players. 
+Each Faction syndicate has its own unique rewards, so it's beneficial to ally with multiple syndicates. The one exception to this is Warframe augment mods, which are each found in two of the 6 syndicates. If there is something you want from a syndicate you're not allied with, you can always trade for it with other players. 
 
 ---
 ## Syndicate Missions
 
 Once you reach Rank 1 with a syndicate, they'll start offering syndicate missions, accessible through the syndicate tab in the top right corner of the navigation screen. These missions grant extra syndicate standing that bypasses the daily standing cap. In most missions, you can find up to 8 syndicate medallions scattered across the map.
 
-> **Note**: Interception and Defense syndicate missions may spawn fewer medallions or none at all depending on the tileset.
+> **Note:** Interception and Defense syndicate missions may spawn fewer medallions or none at all depending on the tileset.
 
 <div class="guide-text-image" markdown="1">
 <div class="guide-text-image__text" markdown="1">
@@ -105,4 +105,4 @@ In a standard syndicate mission with 8 medallions, there will **always** be one 
 </figure>
 </div>
 
-> **Note**: Stockpiling medallions for relic packs is a great way to get new Void relics after a Prime release
+> **Note:** Stockpiling medallions for relic packs is a great way to get new Void relics after a Prime release

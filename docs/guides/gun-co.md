@@ -15,7 +15,7 @@ template: guide.html
 
 ## Overview
 
-Condition Overload (CO) and its gun counterparts, collectively refered to as 'GunCO' (Galvanized Aptitude, Savvy, and Shot), are mods that scale your weapon's direct damage (non-AOE) by the number of unique status effects on the target. 
+Condition Overload (CO) and its gun counterparts, collectively referred to as 'GunCO' (Galvanized Aptitude, Savvy, and Shot), are mods that scale your weapon's direct damage (non-AOE) by the number of unique status effects on the target. 
 
 However, CO mods do not work exactly as written. In some cases, CO will either be stronger or weaker than the mod description implies.
 

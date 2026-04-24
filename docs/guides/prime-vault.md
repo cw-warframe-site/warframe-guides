@@ -27,11 +27,11 @@ Primes are obtained by cracking open Void Relics in Void Fissure missions, and c
 ---
 ## Vaulting Explained
 
-As Digital Extremes (DE) releases new Primes, older ones get "vaulted." This means their relics are removed from the mission drop pool, making them no longer obtainable through normal play. Any relics you already own are unaffected and you can still be opened or traded.
+As Digital Extremes (DE) releases new Primes, older ones get "vaulted." This means their relics are removed from the mission drop pool, making them no longer obtainable through normal play. Any relics you already own are unaffected and can still be opened or traded.
 
 DE introduced vaulting to prevent drop pools from becoming too bloated. Without it, each new Prime release would dilute the drop pool further, making individual pieces harder to obtain.
 
-Vaulting keeps the active pool manageable and thus, keeps drop rates reasonable. At any given time, the 7 most recently released Primes plus Nyx and Valky, who are permanently unvaulted,are available in mission drop pools. When a new Prime is released, the oldest of the 7 gets vaulted along with its weapons.
+Vaulting keeps the active pool manageable and thus keeps drop rates reasonable. At any given time, the 7 most recently released Primes plus Nyx and Valkyr, who are permanently unvaulted,are available in mission drop pools. When a new Prime is released, the oldest of the 7 gets vaulted along with its weapons.
 
 ---
 ## Obtaining Vaulted Primes
@@ -47,7 +47,7 @@ Two Prime Warframes rotate through her shop roughly every 30 days, and additiona
 
 Since vaulted relics are harder to come by, we recommend refining them to Radiant and running radshares to maximize your chances on the drops you need.
 
-> **Note:** Vaulted relics can also be traded between players and generally running 6 for 12-30 platinum depending on the relic and the rarity of the prime parts inside.
+> **Note:** Vaulted relics can also be traded between players, and generally 6 relics go for 12-30 platinum depending on the relic and the rarity of the prime parts inside.
 
 ---
 ## Farming Aya

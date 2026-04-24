@@ -21,7 +21,7 @@ template: guide.html
 Riven mods are special weapon-specific mods that were originally meant to boost underused or niche weapons. Rivens start veiled and give a challenge that's required to unveil it and make it usable. Each unveiled Riven is tied to a specific weapon family and cannot be equipped on other weapons. Each mod also rolls up to 3 random positive stats and one negative stat.
 
 ---
-## Where to get Rivens
+## Where to Get Rivens
 
 At the moment, Rivens can be obtained from the following sources:
 
@@ -47,7 +47,7 @@ At the moment, Rivens can be obtained from the following sources:
 
 On the backend, disposition isn't a simple 1-5 scale. Each weapon is assigned a disposition value from 0.5 - 1.55 that acts as a stat multiplier, affecting the potential range that stats can roll within.
 
-For example, lets say Rivens can normally roll a multishot value from 50% to 100% multishot. With different dispositions, Rivens can only roll within higher or lower stat ranges. 
+For example, let's say Rivens can normally roll a multishot value from 50% to 100% multishot. With different dispositions, Rivens can only roll within higher or lower stat ranges. 
 
 Weapon | Disposition | Multishot roll range |
 |--------|-------------|----------------------|
@@ -62,9 +62,9 @@ This is important because weapons with the same “dots” can have different di
 ---
 ## Rerolling Stats
 
-When you unveil a Riven it's assigned to a random weapon family and given a random set of stats. Sometimes these are great, but most of the time they wont be good out of the gate. Cycling (commonly called rerolling) will randomize the stats and their values on a Riven in exchange for Kuva.
+When you unveil a Riven it's assigned to a random weapon family and given a random set of stats. Sometimes these are great, but most of the time they won't be good out of the gate. Cycling (commonly called rerolling) will randomize the stats and their values on a Riven in exchange for Kuva.
 
-To reroll your Riven, go to your mod bench, select the riven, and click the Cycle option. Spending kuva will then present you with two options: keep the original and take the new roll. Since stats are entirely random, it may take quite a few rolls before you find a roll you're happy with. 
+To reroll your Riven, go to your mod bench, select the riven, and click the Cycle option. Spending kuva will then present you with two options: keep the original or take the new roll. Since stats are entirely random, it may take quite a few rolls before you find a roll you're happy with. 
 
 ---
 ## Recommended Riven Stats
@@ -75,7 +75,7 @@ What makes a Riven 'good' varies by weapon, and with experience you'll naturally
 
 > **Announcement:** *I plan to reformat this data into a tool on this site eventually and will update this page when I do.*
 
-> **Note**: Due to how some late game mods are, lower disposition weapons wiil often need better Riven rolls to have them outperform standard mods.
+> **Note**: Due to how some late game mods are, lower disposition weapons will often need better Riven rolls to have them outperform standard mods.
 
 ---
 ## How to Price Your Riven
