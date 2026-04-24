@@ -1,0 +1,25 @@
+name: Protect Labels
+
+on:
+  issues:
+    types: [labeled]
+  pull_request_target:
+    types: [labeled]
+
+jobs:
+  enforce-label-permissions:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Remove unauthorized restricted labels
+        if: contains(fromJSON('["accepted", "denied", "under review"]'), github.event.label.name) && github.event.sender.login != 'cw-warframe-guides'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "issues" ]; then
+            gh api repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/labels/${{ github.event.label.name }} -X DELETE
+          else
+            gh api repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels/${{ github.event.label.name }} -X DELETE
+          fi

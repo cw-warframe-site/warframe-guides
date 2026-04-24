@@ -24,10 +24,29 @@
     <div class="md-header__spacer"></div>
     <nav class="md-header-nav" aria-label="Site navigation">
       {% for nav_item in nav.items %}
+      {% if nav_item.children %}
+      <div class="md-header-nav__item--dropdown" data-md-dropdown>
+        <button class="md-header-nav__link md-header-nav__dropdown-trigger"
+                aria-haspopup="true"
+                aria-expanded="false">
+          {{ nav_item.title }}
+        </button>
+        <ul class="md-header-nav__dropdown-menu" role="menu">
+          {% for child in nav_item.children %}
+          <li role="none">
+            <a href="{{ child.url | url }}" class="md-header-nav__dropdown-link" role="menuitem">
+              {{ child.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% else %}
       <a href="{{ nav_item.url | url }}"
          class="md-header-nav__link{% if nav_item.active %} md-header-nav__link--active{% endif %}">
         {{ nav_item.title }}
       </a>
+      {% endif %}
       {% endfor %}
     </nav>
     {% if "material/search" in config.plugins %}

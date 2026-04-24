@@ -1,0 +1,45 @@
+{% extends "main.html" %}
+
+{% block extrahead %}
+<meta name="darkreader-lock">
+<style>
+  /* Hide both sidebars on desktop */
+  @media (min-width: 631px) {
+    .md-sidebar--primary,
+    .md-sidebar--secondary { display: none !important; }
+  }
+
+  /* Hide Material footer generator line */
+  .md-footer-meta { display: none !important; }
+
+  /* Center the content with comfortable max-width */
+  .md-main__inner {
+    max-width: 1100px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Page title: centered, matching guide style */
+  .md-content h1 {
+    font-size: 2rem !important;
+    text-align: center;
+  }
+
+  /* Contributor names: gold to match H3 headers */
+  .md-content strong {
+    color: #c8b87a;
+  }
+
+  /* Descriptor text: dimmed, strong's explicit color overrides this */
+  .md-content ul li {
+    color: rgba(219, 210, 173, 0.8);
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+{% endblock %}

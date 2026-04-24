@@ -1027,6 +1027,318 @@ img.floored {
   }
 }
 
+/* ── Feedback page ───────────────────────────────── */
+.feedback-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+  align-items: start;
+}
+
+@media (max-width: 820px) {
+  .feedback-layout {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+}
+
+.feedback-layout h1 {
+  text-align: center;
+  margin-bottom: 0.4rem;
+}
+
+.feedback-page__intro {
+  text-align: center;
+  color: #dbd2ad;
+  opacity: 0.75;
+  margin-bottom: 1.5rem;
+  font-size: 0.85rem;
+}
+
+/* ── Tickets panel ───────────────────────────────── */
+.tickets-meta {
+  font-size: 0.75rem;
+  color: #dbd2ad;
+  opacity: 0.5;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.tickets-meta a {
+  color: #b59d47 !important;
+  text-decoration: none !important;
+}
+
+.tickets-meta a:hover {
+  text-decoration: underline !important;
+}
+
+.tickets-loading,
+.tickets-error,
+.tickets-empty {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #dbd2ad;
+  opacity: 0.5;
+  padding: 2rem 0;
+}
+
+.tickets-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.ticket-card {
+  display: block;
+  background: #26221a;
+  border: 1.5px solid #3a3020;
+  border-radius: 3px;
+  padding: 0.85rem 1rem;
+  text-decoration: none !important;
+  transition: border-color 0.15s;
+}
+
+.ticket-card:hover {
+  border-color: #b59d47;
+}
+
+.ticket-card__title {
+  font-size: 0.85rem;
+  color: #dbd2ad !important;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.ticket-card__labels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.ticket-label {
+  font-size: 0.65rem;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.55rem;
+  border-radius: 2px;
+  border: 1px solid;
+}
+
+.feedback-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+/* Side-by-side name + email on wider screens */
+.feedback-form__row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+}
+
+@media (max-width: 630px) {
+  .feedback-form__row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.feedback-form__group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.feedback-form__label {
+  font-family: 'Cinzel', serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: #b59d47;
+  text-transform: uppercase;
+}
+
+.feedback-form__required {
+  color: #d73a4a;
+}
+
+.feedback-form__optional {
+  color: #dbd2ad;
+  opacity: 0.5;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.7rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.feedback-form__input {
+  background: #26221a;
+  border: 1.5px solid #3a3020;
+  border-radius: 2px;
+  color: #dbd2ad;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.9rem;
+  padding: 0.6rem 0.8rem;
+  transition: border-color 0.15s;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.feedback-form__input::placeholder {
+  color: #dbd2ad;
+  opacity: 0.3;
+}
+
+.feedback-form__input:focus {
+  outline: none;
+  border-color: #b59d47;
+}
+
+.feedback-form__select {
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23b59d47' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.8rem center;
+  padding-right: 2rem;
+}
+
+.feedback-form__select option {
+  background: #26221a;
+  color: #dbd2ad;
+}
+
+.feedback-form__textarea {
+  resize: vertical;
+  min-height: 140px;
+  line-height: 1.6;
+}
+
+.feedback-form__footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.feedback-form__hint {
+  font-size: 0.75rem;
+  color: #dbd2ad;
+  opacity: 0.4;
+}
+
+.feedback-form__submit {
+  background: transparent;
+  border: 1.5px solid #b59d47;
+  border-radius: 2px;
+  color: #b59d47;
+  cursor: pointer;
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  padding: 0.55rem 1.6rem;
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+.feedback-form__submit:hover:not(:disabled) {
+  background: #b59d47;
+  color: #1c1c1c;
+}
+
+.feedback-form__submit:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.feedback-status {
+  margin-top: 1.5rem;
+  padding: 1rem 1.25rem;
+  border-radius: 2px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.feedback-status--success {
+  background: #0d2b1a;
+  border: 1.5px solid #2ea44f;
+  color: #2ea44f;
+}
+
+.feedback-status--error {
+  background: #2b0d0d;
+  border: 1.5px solid #d73a4a;
+  color: #d73a4a;
+}
+
+/* ── More dropdown ──────────────────────────────── */
+.md-header-nav__item--dropdown {
+  position: relative;
+}
+
+.md-header-nav__dropdown-trigger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  color: #dbd2ad !important;
+  text-decoration: none !important;
+  padding: 0.3rem 0.9rem;
+  border-radius: 2px;
+  opacity: 0.75;
+  transition: opacity 0.15s, color 0.15s;
+  white-space: nowrap;
+  line-height: inherit;
+}
+
+.md-header-nav__dropdown-trigger:hover,
+.md-header-nav__item--dropdown.is-open .md-header-nav__dropdown-trigger {
+  opacity: 1;
+  color: #b59d47 !important;
+}
+
+.md-header-nav__dropdown-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 4px);
+  right: 0;
+  background: #1c1c1c;
+  border: 1.5px solid #b59d47;
+  border-radius: 2px;
+  list-style: none;
+  padding: 6px 0;
+  margin: 0;
+  min-width: 140px;
+  z-index: 100;
+}
+
+.md-header-nav__dropdown-menu.is-open {
+  display: block;
+}
+
+.md-header-nav__dropdown-link {
+  display: block;
+  padding: 0.45rem 1rem;
+  font-family: 'Cinzel', serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  color: #dbd2ad !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: color 0.15s, background 0.15s;
+}
+
+.md-header-nav__dropdown-link:hover {
+  color: #b59d47 !important;
+  background: #26221a;
+}
+
 /* ── Responsive video embed (16:9) ─────────────────────────────────────────── */
 .video-embed {
   position: relative;

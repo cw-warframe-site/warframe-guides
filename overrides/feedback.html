@@ -1,0 +1,122 @@
+{% extends "main.html" %}
+
+{% block extrahead %}
+<meta name="darkreader-lock">
+<style>
+  @media (min-width: 631px) {
+    .md-sidebar--primary,
+    .md-sidebar--secondary { display: none !important; }
+  }
+  .md-footer-meta { display: none !important; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="md-typeset feedback-layout">
+
+  <!-- ── Left: Submission form ── -->
+  <div class="feedback-layout__form">
+    <h1>Feedback</h1>
+    <p class="feedback-page__intro">If you have thoughts on the site, got a guide you'd like to see, or you've found something that's broken, send a message below!</p>
+
+    <form id="feedback-form" class="feedback-form" novalidate>
+
+      <div class="feedback-form__row">
+        <div class="feedback-form__group">
+          <label class="feedback-form__label" for="fb-name">
+            Name <span class="feedback-form__required">*</span>
+          </label>
+          <input class="feedback-form__input"
+                 type="text"
+                 id="fb-name"
+                 name="name"
+                 placeholder="Your name"
+                 autocomplete="name"
+                 required>
+        </div>
+
+        <div class="feedback-form__group">
+          <label class="feedback-form__label" for="fb-email">
+            Email <span class="feedback-form__optional">(optional)</span>
+          </label>
+          <input class="feedback-form__input"
+                 type="email"
+                 id="fb-email"
+                 name="email"
+                 placeholder="your@email.com"
+                 autocomplete="email">
+        </div>
+      </div>
+
+      <div class="feedback-form__group">
+        <label class="feedback-form__label" for="fb-subject">
+          Subject <span class="feedback-form__required">*</span>
+        </label>
+        <input class="feedback-form__input"
+               type="text"
+               id="fb-subject"
+               name="subject"
+               placeholder="Brief summary of your submission"
+               required>
+      </div>
+
+      <div class="feedback-form__group">
+        <label class="feedback-form__label" for="fb-type">
+          Type <span class="feedback-form__required">*</span>
+        </label>
+        <select class="feedback-form__input feedback-form__select"
+                id="fb-type"
+                name="type"
+                required>
+          <option value="" disabled selected>Select a type...</option>
+          <option value="feedback">General Feedback</option>
+          <option value="guide-request">Guide Request</option>
+          <option value="bug">Bug</option>
+        </select>
+      </div>
+
+      <div class="feedback-form__group">
+        <label class="feedback-form__label" for="fb-message">
+          Message <span class="feedback-form__required">*</span>
+        </label>
+        <textarea class="feedback-form__input feedback-form__textarea"
+                  id="fb-message"
+                  name="message"
+                  placeholder="Write your message here..."
+                  rows="7"
+                  required></textarea>
+      </div>
+
+      <div class="feedback-form__footer">
+        <span class="feedback-form__hint">* Required</span>
+        <button class="feedback-form__submit" type="submit">Submit</button>
+      </div>
+
+    </form>
+
+    <div id="feedback-success" class="feedback-status feedback-status--success" hidden>
+      Thank you — your submission has been received!
+    </div>
+    <div id="feedback-error" class="feedback-status feedback-status--error" hidden>
+      Something went wrong on our end. Please try again in a moment.
+    </div>
+  </div>
+
+  <!-- ── Right: Open tickets ── -->
+  <div class="feedback-layout__status">
+    <h1>Open Submissions</h1>
+    <p class="feedback-page__intro">Current open submissions. Accepted means I plan to work on it. Closed and rejected tickets are hidden.</p>
+
+    <div id="tickets-meta" class="tickets-meta" hidden>
+      Last updated: <span id="tickets-updated"></span> &nbsp;·&nbsp;
+      <a id="tickets-gh-link" href="https://github.com/cw-warframe-guides/cw-warframe-guides.github.io/issues" target="_blank" rel="noopener">View all on GitHub</a>
+    </div>
+
+    <div id="tickets-loading" class="tickets-loading">Loading submissions...</div>
+    <div id="tickets-error" class="tickets-error" hidden>Could not load submissions.</div>
+    <div id="tickets-empty" class="tickets-empty" hidden>No open submissions right now.</div>
+    <div id="tickets-list" class="tickets-list" hidden></div>
+  </div>
+
+</div>
+{% endblock %}

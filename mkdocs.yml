@@ -20,6 +20,9 @@ extra_css:
 nav:
   - Home: index.md
   - Guide Index: guide_index.md
+  - More:
+      - Feedback: feedback.md
+      - Credits: credits.md
 
 plugins:
   - search
@@ -47,3 +50,5 @@ extra_javascript:
   - javascripts/prime-list.js
   - javascripts/resurgence.js
   - javascripts/sentinel-images.js
+  - javascripts/nav-dropdown.js
+  - javascripts/feedback-form.js
