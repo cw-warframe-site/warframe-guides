@@ -39,15 +39,19 @@ document.addEventListener('DOMContentLoaded', function () {
       var payload = { name, email, subject, type, message };
       var ok = false;
 
-      // Try Cloudflare Worker → GitHub Issues
+      // Try Cloudflare Worker → GitHub Issues (5 s timeout)
       try {
+        var controller = new AbortController();
+        var timeout = setTimeout(function () { controller.abort(); }, 5000);
         var res = await fetch(WORKER_URL, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(payload),
+          signal: controller.signal,
         });
+        clearTimeout(timeout);
         ok = res.ok;
-      } catch (_) { /* fall through */ }
+      } catch (_) { /* timed out or network error — fall through */ }
 
       // Fallback: Formspree directly
       if (!ok) {
@@ -71,6 +75,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (ok) {
         form.hidden    = true;
         success.hidden = false;
+        success.scrollIntoView({ behavior: 'smooth', block: 'center' });
       } else {
         submit.disabled    = false;
         submit.textContent = 'Submit';

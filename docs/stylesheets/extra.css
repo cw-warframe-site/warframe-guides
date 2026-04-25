@@ -1262,10 +1262,11 @@ img.floored {
 
 .feedback-status {
   margin-top: 1.5rem;
-  padding: 1rem 1.25rem;
+  padding: 1.5rem 1.25rem;
   border-radius: 2px;
-  font-size: 0.9rem;
+  font-size: 1rem;
   text-align: center;
+  line-height: 1.7;
 }
 
 .feedback-status--success {

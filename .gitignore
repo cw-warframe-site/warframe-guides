@@ -1,2 +1,5 @@
 site/
 notes.txt
+docs/data/rivendata.xlsx
+docs/data/rivendata.json
+docs/data/convert_rivendata.py
