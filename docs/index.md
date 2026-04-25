@@ -10,7 +10,7 @@ A big thank you to everyone who helped edit and look over my guides as I was mak
 
 A big thank you to everyone who gave advice on the site or looked over my guides as I was making them! You can find the full credits [here](credits.md). Y'all are amazing!
 
-I hope you enjoy my guides and if there's something specific you'd like a guide on, please [submit a suggestion here](feedback.md) or feel free to hit me up on Discord/WF (User/IGN: Charithw)!
+I hope you enjoy my guides! If you have any feedback or if there's something specific you'd like a guide on, please [submit a message here](feedback.md) or feel free to hit me up on Discord/WF (User/IGN: Charithw)!
 
 <div class="home-cta">
   <a href="guide_index/" class="guide-index-btn">View Guide Index</a>
