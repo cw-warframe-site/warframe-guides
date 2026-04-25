@@ -25,9 +25,9 @@ Eidolon hunting is a complex and nuanced activity, and the community has spent y
 
 > **Note:** Warframe regularly introduces new weapons, arcanes, and system changes that can shift the Eidolon meta. As community resources, these guides don't always reflect the latest optimizations, though their core content remains valid.
 
-[**The Eidolon Wiki**](https://docs.google.com/document/d/1JuzfhprfFsbpu4JUSePe3JlCvtmHDFrhxbJBttetzvg/edit?tab=t.0#heading=h.9nqm20v3wvzm)
+[**Idalon's Eidolon Guide**](https://guide.idalon.com)
 
-A comprehensive document covering all aspects of Eidolon hunting in detail. Has a pretty handy beginner guide that covers early investments, strategies, and more. Note that this document has not been updated since some time before June 2024.
+The Idalon website is a leaderboard that tracks the speedrun times for Eidolon clears. At the time of writing this guide (April 2026), they have posted an associated guide that is still a work in progress. At the moment it is still being updated and covers a lot of valuable information for beginner and expert Eidolon hunters. 
 
 **Brozime's Full Solo Tridolon Guide**
 
