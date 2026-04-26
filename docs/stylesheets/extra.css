@@ -1381,3 +1381,224 @@ img.floored {
   height: 100%;
   border: 0;
 }
+
+/* ── Riven Stat Recommendations tool ────────────────────────────────────────── */
+
+/* Search bar */
+.riven-search-wrap {
+  position: relative;
+  max-width: 480px;
+  margin: 1.5rem 0 2rem;
+}
+
+.riven-search-input {
+  width: 100%;
+  padding: 0.65rem 1rem;
+  background: #26221a;
+  border: 1px solid #b59d47;
+  border-radius: 4px;
+  color: #dbd2ad;
+  font-family: Lato, sans-serif;
+  font-size: 1rem;
+  outline: none;
+  box-sizing: border-box;
+  transition: border-color 0.2s;
+}
+
+.riven-search-input:focus {
+  border-color: #c8b87a;
+  box-shadow: 0 0 0 2px rgba(181, 157, 71, 0.2);
+}
+
+.riven-search-input::placeholder {
+  color: #6b6048;
+}
+
+.riven-search-input:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Autocomplete dropdown */
+.riven-dropdown {
+  position: absolute;
+  top: calc(100% + 2px);
+  left: 0;
+  right: 0;
+  background: #26221a;
+  border: 1px solid #b59d47;
+  border-radius: 4px;
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0;
+  z-index: 100;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+}
+
+.riven-dropdown__item {
+  padding: 0.5rem 1rem;
+  color: #dbd2ad;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: background 0.15s, color 0.15s;
+}
+
+.riven-dropdown__item:hover,
+.riven-dropdown__item:focus {
+  background: #332d1f;
+  color: #c8b87a;
+  outline: none;
+}
+
+/* Results heading */
+#riven-results:empty {
+  min-height: 60vh;
+}
+
+.riven-results__heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid #3a3020;
+  padding-bottom: 0.6rem;
+}
+
+.riven-results__weapon-name {
+  font-family: Cinzel, serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #dbd2ad;
+}
+
+.riven-results__weapon-type {
+  font-size: 0.8rem;
+  color: #6b6048;
+  text-transform: capitalize;
+  letter-spacing: 0.04em;
+}
+
+.riven-results__option-count {
+  font-size: 0.8rem;
+  color: #6b6048;
+  letter-spacing: 0.04em;
+}
+
+/* Combo card grid */
+.riven-combo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+@media (max-width: 630px) {
+  .riven-combo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Individual combo card */
+.riven-combo-card {
+  background: #26221a;
+  border: 1px solid #3a3020;
+  border-radius: 6px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.riven-combo-card__header {
+  background: #1e1a12;
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid #3a3020;
+}
+
+.riven-combo-card__title {
+  font-family: Cinzel, serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #b59d47;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.riven-combo-card__section {
+  padding: 0.85rem 1rem 0.5rem;
+  border-bottom: 1px solid #2e2918;
+}
+
+.riven-combo-card__section:last-of-type {
+  border-bottom: none;
+  padding-bottom: 0.85rem;
+}
+
+.riven-combo-card__label {
+  font-size: 0.7rem;
+  color: #564e38;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.5rem;
+}
+
+.riven-combo-card__stat-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Stat pills */
+.riven-stat-pill {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: 3px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.riven-stat-pill--choice {
+  background: rgba(181, 157, 71, 0.10);
+  border: 1px solid #4a4030;
+  color: #c8b87a;
+}
+
+.riven-stat-pill--negative {
+  background: rgba(80, 90, 60, 0.12);
+  border: 1px solid #4a5038;
+  color: #7a8060;
+  font-weight: 400;
+}
+
+.riven-stat-choice {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.riven-stat-sep {
+  color: #7a6a48;
+  font-size: 0.85rem;
+  line-height: 1;
+}
+
+/* Notes */
+.riven-combo-card__note {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  padding: 0.75rem 1rem;
+  background: #1e1a12;
+  font-size: 0.82rem;
+  color: #7a7060;
+  line-height: 1.5;
+}
+
+.riven-combo-card__note-icon {
+  flex-shrink: 0;
+  color: #8a7a50;
+  margin-top: 0.05rem;
+}

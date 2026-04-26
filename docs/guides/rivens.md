@@ -69,11 +69,9 @@ To reroll your Riven, go to your mod bench, select the riven, and click the Cycl
 ---
 ## Recommended Riven Stats
 
-What makes a Riven 'good' varies by weapon, and with experience you'll naturally figure out what stats are desirable and what stats aren't. The chart below covers good and great stat combinations for each weapon and can serve as a good quick reference.
+What makes a Riven 'good' varies by weapon, and with experience you'll naturally figure out what stats are desirable and what stats aren't. The tool below lets you search any weapon and pull up recommended stat combinations and notes.
 
-[**Good Riven Rolls by 44bananas**](https://docs.google.com/spreadsheets/d/1zbaeJBuBn44cbVKzJins_E3hTDpnmvOk8heYN-G8yy8/edit?gid=1687910063#gid=1687910063)
-
-> **Announcement:** *I plan to reformat this data into a tool on this site eventually and will update this page when I do.*
+[**Open the Riven Stat Tool**](riven-stats.md)
 
 > **Note**: Due to how some late game mods are, lower disposition weapons will often need better Riven rolls to have them outperform standard mods.
 

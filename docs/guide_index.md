@@ -105,7 +105,7 @@ template: guide-index.html
         <li><a href="../guides/aleca/">AlecaFrame</a></li>
         <li><a href="../guides/amp/">Amp Chart</a></li>
         <li><a href="../guides/gun-co/">GunCO Spreadsheet</a></li>
-        <li><span class="tbd">Riven Stat Checker <span class="wip-tag">(WIP)</span></span></li>
+        <li><a href="../guides/riven-stats/">Riven Stat Recommender</a></li>
         <li><a href="../guides/wfm/">Warframe.Market</a></li>
         <li><a href="../guides/wf-colorpicker/">Warframe Color Picker</a></li>
       </ul>
